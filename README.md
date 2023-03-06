@@ -8,7 +8,7 @@
   -   [Contents](#contents)
   -   [Description](#description)
       -   [What's the problem we are trying to solve?](#whats-the-problem-we-are-trying-to-solve)
-      -   [How can ABC help?](#how-can-abc-help)
+      -   [How can Mime Scraper help?](#how-can-mime-scraper-help)
       -   [The idea](#the-idea)
   -   [Project structure](#project-structure)
   -   [Getting started](#getting-started)
