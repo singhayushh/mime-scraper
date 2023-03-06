@@ -1,0 +1,4916 @@
+[
+    {
+        "Name": "Andrew Toolkit",
+        "Mimetype": "application/andrew-inset",
+        "Icon": "",
+        "Extension": "N/A",
+        "Info": "http://www.iana.org/assignments/media-types/application/andrew-inset"
+    },
+    {
+        "Name": "Applixware",
+        "Mimetype": "application/applixware",
+        "Icon": "",
+        "Extension": ".aw",
+        "Info": "http://www.vistasource.com/en/apl.php"
+    },
+    {
+        "Name": "Atom Syndication Format",
+        "Mimetype": "application/atom+xml",
+        "Icon": "",
+        "Extension": ".atom, .xml",
+        "Info": "http://tools.ietf.org/html/rfc4287"
+    },
+    {
+        "Name": "Atom Publishing Protocol",
+        "Mimetype": "application/atomcat+xml",
+        "Icon": "",
+        "Extension": ".atomcat",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5023.txt"
+    },
+    {
+        "Name": "Atom Publishing Protocol Service Document",
+        "Mimetype": "application/atomsvc+xml",
+        "Icon": "",
+        "Extension": ".atomsvc",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5023.txt"
+    },
+    {
+        "Name": "Voice Browser Call Control",
+        "Mimetype": "application/ccxml+xml,",
+        "Icon": "",
+        "Extension": ".ccxml",
+        "Info": "http://www.w3.org/TR/ccxml/"
+    },
+    {
+        "Name": "Cloud Data Management Interface (CDMI) - Capability",
+        "Mimetype": "application/cdmi-capability",
+        "Icon": "",
+        "Extension": ".cdmia",
+        "Info": "http://www.rfc-editor.org/info/rfc6208"
+    },
+    {
+        "Name": "Cloud Data Management Interface (CDMI) - Contaimer",
+        "Mimetype": "application/cdmi-container",
+        "Icon": "",
+        "Extension": ".cdmic",
+        "Info": "http://www.rfc-editor.org/info/rfc6209"
+    },
+    {
+        "Name": "Cloud Data Management Interface (CDMI) - Domain",
+        "Mimetype": "application/cdmi-domain",
+        "Icon": "",
+        "Extension": ".cdmid",
+        "Info": "http://www.rfc-editor.org/info/rfc6210"
+    },
+    {
+        "Name": "Cloud Data Management Interface (CDMI) - Object",
+        "Mimetype": "application/cdmi-object",
+        "Icon": "",
+        "Extension": ".cdmio",
+        "Info": "http://www.rfc-editor.org/info/rfc6211"
+    },
+    {
+        "Name": "Cloud Data Management Interface (CDMI) - Queue",
+        "Mimetype": "application/cdmi-queue",
+        "Icon": "",
+        "Extension": ".cdmiq",
+        "Info": "http://www.rfc-editor.org/info/rfc6212"
+    },
+    {
+        "Name": "CU-SeeMe",
+        "Mimetype": "application/cu-seeme",
+        "Icon": "",
+        "Extension": ".cu",
+        "Info": "http://www.wpine.com/"
+    },
+    {
+        "Name": "Web Distributed Authoring and Versioning",
+        "Mimetype": "application/davmount+xml",
+        "Icon": "",
+        "Extension": ".davmount",
+        "Info": "http://tools.ietf.org/html/rfc4918"
+    },
+    {
+        "Name": "Data Structure for the Security Suitability of Cryptographic Algorithms",
+        "Mimetype": "application/dssc+der",
+        "Icon": "",
+        "Extension": ".dssc",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5698.txt"
+    },
+    {
+        "Name": "Data Structure for the Security Suitability of Cryptographic Algorithms",
+        "Mimetype": "application/dssc+xml",
+        "Icon": "",
+        "Extension": ".xdssc",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5698.txt"
+    },
+    {
+        "Name": "ECMAScript",
+        "Mimetype": "application/ecmascript",
+        "Icon": "",
+        "Extension": ".es",
+        "Info": "http://www.ecma-international.org/publications/standards/Ecma-357.htm"
+    },
+    {
+        "Name": "Extensible MultiModal Annotation",
+        "Mimetype": "application/emma+xml",
+        "Icon": "",
+        "Extension": ".emma",
+        "Info": "http://www.w3.org/TR/2007/CR-emma-20071211/"
+    },
+    {
+        "Name": "Electronic Publication",
+        "Mimetype": "application/epub+zip",
+        "Icon": "",
+        "Extension": ".epub",
+        "Info": "https://en.wikipedia.org/wiki/EPUB"
+    },
+    {
+        "Name": "Efficient XML Interchange",
+        "Mimetype": "application/exi",
+        "Icon": "",
+        "Extension": ".exi",
+        "Info": "http://www.w3.org/TR/exi-best-practices/"
+    },
+    {
+        "Name": "Portable Font Resource",
+        "Mimetype": "application/font-tdpfr",
+        "Icon": "",
+        "Extension": ".pfr",
+        "Info": "http://tools.ietf.org/html/rfc3073"
+    },
+    {
+        "Name": "Hyperstudio",
+        "Mimetype": "application/hyperstudio",
+        "Icon": "",
+        "Extension": ".stk",
+        "Info": "http://www.iana.org/assignments/media-types/application/hyperstudio"
+    },
+    {
+        "Name": "Internet Protocol Flow Information Export",
+        "Mimetype": "application/ipfix",
+        "Icon": "",
+        "Extension": ".ipfix",
+        "Info": "http://tools.ietf.org/html/rfc3917"
+    },
+    {
+        "Name": "Java Archive",
+        "Mimetype": "application/java-archive",
+        "Icon": "",
+        "Extension": ".jar",
+        "Info": "https://en.wikipedia.org/wiki/JAR_%28file_format%29"
+    },
+    {
+        "Name": "Java Serialized Object",
+        "Mimetype": "application/java-serialized-object",
+        "Icon": "",
+        "Extension": ".ser",
+        "Info": "http://java.sun.com/developer/technicalArticles/Programming/serialization/"
+    },
+    {
+        "Name": "Java Bytecode File",
+        "Mimetype": "application/java-vm",
+        "Icon": "",
+        "Extension": ".class",
+        "Info": "https://en.wikipedia.org/wiki/Java_bytecode"
+    },
+    {
+        "Name": "JavaScript",
+        "Mimetype": "application/javascript",
+        "Icon": "",
+        "Extension": ".js",
+        "Info": "https://en.wikipedia.org/wiki/Javascript"
+    },
+    {
+        "Name": "JavaScript Object Notation (JSON)",
+        "Mimetype": "application/json",
+        "Icon": "",
+        "Extension": ".json",
+        "Info": "https://en.wikipedia.org/wiki/Json"
+    },
+    {
+        "Name": "Macintosh BinHex 4.0",
+        "Mimetype": "application/mac-binhex40",
+        "Icon": "",
+        "Extension": ".hqx",
+        "Info": "http://www.iana.org/assignments/media-types/multipart/appledouble"
+    },
+    {
+        "Name": "Compact Pro",
+        "Mimetype": "application/mac-compactpro",
+        "Icon": "",
+        "Extension": ".cpt",
+        "Info": "http://www.cyclos.com/compactpro.htm"
+    },
+    {
+        "Name": "Metadata Authority Description Schema",
+        "Mimetype": "application/mads+xml",
+        "Icon": "",
+        "Extension": ".mads",
+        "Info": "http://tools.ietf.org/html/rfc6207"
+    },
+    {
+        "Name": "MARC Formats",
+        "Mimetype": "application/marc",
+        "Icon": "",
+        "Extension": ".mrc",
+        "Info": "http://www.faqs.org/rfcs/rfc2220.html"
+    },
+    {
+        "Name": "MARC21 XML Schema",
+        "Mimetype": "application/marcxml+xml",
+        "Icon": "",
+        "Extension": ".mrcx",
+        "Info": "http://tools.ietf.org/html/rfc6207"
+    },
+    {
+        "Name": "Mathematica Notebooks",
+        "Mimetype": "application/mathematica",
+        "Icon": "",
+        "Extension": ".ma",
+        "Info": "http://www.iana.org/assignments/media-types/application/mathematica"
+    },
+    {
+        "Name": "Mathematical Markup Language",
+        "Mimetype": "application/mathml+xml",
+        "Icon": "",
+        "Extension": ".mathml",
+        "Info": "http://www.w3.org/Math/"
+    },
+    {
+        "Name": "Mbox database files",
+        "Mimetype": "application/mbox",
+        "Icon": "",
+        "Extension": ".mbox",
+        "Info": "http://tools.ietf.org/html/rfc4155"
+    },
+    {
+        "Name": "Media Server Control Markup Language",
+        "Mimetype": "application/mediaservercontrol+xml",
+        "Icon": "",
+        "Extension": ".mscml",
+        "Info": "http://tools.ietf.org/html/rfc5022"
+    },
+    {
+        "Name": "Metalink",
+        "Mimetype": "application/metalink4+xml",
+        "Icon": "",
+        "Extension": ".meta4",
+        "Info": "https://en.wikipedia.org/wiki/Metalink"
+    },
+    {
+        "Name": "Metadata Encoding and Transmission Standard",
+        "Mimetype": "application/mets+xml",
+        "Icon": "",
+        "Extension": ".mets",
+        "Info": "http://tools.ietf.org/html/rfc6207"
+    },
+    {
+        "Name": "Metadata Object Description Schema",
+        "Mimetype": "application/mods+xml",
+        "Icon": "",
+        "Extension": ".mods",
+        "Info": "http://tools.ietf.org/html/rfc6207"
+    },
+    {
+        "Name": "MPEG-21",
+        "Mimetype": "application/mp21",
+        "Icon": "",
+        "Extension": ".m21",
+        "Info": "https://en.wikipedia.org/wiki/MPEG-21"
+    },
+    {
+        "Name": "MPEG4",
+        "Mimetype": "application/mp4",
+        "Icon": "",
+        "Extension": ".mp4",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4337.txt"
+    },
+    {
+        "Name": "Microsoft Word",
+        "Mimetype": "application/msword",
+        "Icon": "",
+        "Extension": ".doc",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Word"
+    },
+    {
+        "Name": "Material Exchange Format",
+        "Mimetype": "application/mxf",
+        "Icon": "",
+        "Extension": ".mxf",
+        "Info": "http://www.ietf.org/rfc/rfc4539.txt"
+    },
+    {
+        "Name": "Binary Data",
+        "Mimetype": "application/octet-stream",
+        "Icon": "",
+        "Extension": ".bin",
+        "Info": ""
+    },
+    {
+        "Name": "Office Document Architecture",
+        "Mimetype": "application/oda",
+        "Icon": "",
+        "Extension": ".oda",
+        "Info": "http://tools.ietf.org/html/rfc2161"
+    },
+    {
+        "Name": "Open eBook Publication Structure",
+        "Mimetype": "application/oebps-package+xml",
+        "Icon": "",
+        "Extension": ".opf",
+        "Info": "https://en.wikipedia.org/wiki/Open_eBook"
+    },
+    {
+        "Name": "Ogg",
+        "Mimetype": "application/ogg",
+        "Icon": "",
+        "Extension": ".ogx",
+        "Info": "https://en.wikipedia.org/wiki/Ogg"
+    },
+    {
+        "Name": "Microsoft OneNote",
+        "Mimetype": "application/onenote",
+        "Icon": "",
+        "Extension": ".onetoc",
+        "Info": "http://office.microsoft.com/en-ca/onenote/"
+    },
+    {
+        "Name": "XML Patch Framework",
+        "Mimetype": "application/patch-ops-error+xml",
+        "Icon": "",
+        "Extension": ".xer",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5261.txt"
+    },
+    {
+        "Name": "Adobe Portable Document Format",
+        "Mimetype": "application/pdf",
+        "Icon": "",
+        "Extension": ".pdf",
+        "Info": "http://www.adobe.com/products/acrobat/adobepdf.html"
+    },
+    {
+        "Name": "Pretty Good Privacy",
+        "Mimetype": "application/pgp-encrypted",
+        "Icon": "",
+        "Extension": ".pgp",
+        "Info": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy"
+    },
+    {
+        "Name": "Pretty Good Privacy - Signature",
+        "Mimetype": "application/pgp-signature",
+        "Icon": "",
+        "Extension": ".pgp",
+        "Info": "http://www.ietf.org/rfc/rfc2015.txt"
+    },
+    {
+        "Name": "PICSRules",
+        "Mimetype": "application/pics-rules",
+        "Icon": "",
+        "Extension": ".prf",
+        "Info": "http://www.w3.org/TR/REC-PICSRules/"
+    },
+    {
+        "Name": "PKCS #10 - Certification Request Standard",
+        "Mimetype": "application/pkcs10",
+        "Icon": "",
+        "Extension": ".p10",
+        "Info": "http://tools.ietf.org/html/rfc2986"
+    },
+    {
+        "Name": "PKCS #7 - Cryptographic Message Syntax Standard",
+        "Mimetype": "application/pkcs7-mime",
+        "Icon": "",
+        "Extension": ".p7m",
+        "Info": "http://tools.ietf.org/html/rfc2315"
+    },
+    {
+        "Name": "PKCS #7 - Cryptographic Message Syntax Standard",
+        "Mimetype": "application/pkcs7-signature",
+        "Icon": "",
+        "Extension": ".p7s",
+        "Info": "http://tools.ietf.org/html/rfc2315"
+    },
+    {
+        "Name": "PKCS #8 - Private-Key Information Syntax Standard",
+        "Mimetype": "application/pkcs8",
+        "Icon": "",
+        "Extension": ".p8",
+        "Info": "http://tools.ietf.org/html/rfc5208"
+    },
+    {
+        "Name": "Attribute Certificate",
+        "Mimetype": "application/pkix-attr-cert",
+        "Icon": "",
+        "Extension": ".ac",
+        "Info": "http://tools.ietf.org/html/rfc5877"
+    },
+    {
+        "Name": "Internet Public Key Infrastructure - Certificate",
+        "Mimetype": "application/pkix-cert",
+        "Icon": "",
+        "Extension": ".cer",
+        "Info": "http://www.ietf.org/rfc/rfc2585.txt"
+    },
+    {
+        "Name": "Internet Public Key Infrastructure - Certificate Revocation Lists",
+        "Mimetype": "application/pkix-crl",
+        "Icon": "",
+        "Extension": ".crl",
+        "Info": "http://www.ietf.org/rfc/rfc2585.txt"
+    },
+    {
+        "Name": "Internet Public Key Infrastructure - Certification Path",
+        "Mimetype": "application/pkix-pkipath",
+        "Icon": "",
+        "Extension": ".pkipath",
+        "Info": "http://www.ietf.org/rfc/rfc2585.txt"
+    },
+    {
+        "Name": "Internet Public Key Infrastructure - Certificate Management Protocole",
+        "Mimetype": "application/pkixcmp",
+        "Icon": "",
+        "Extension": ".pki",
+        "Info": "http://www.ietf.org/rfc/rfc2585.txt"
+    },
+    {
+        "Name": "Pronunciation Lexicon Specification",
+        "Mimetype": "application/pls+xml",
+        "Icon": "",
+        "Extension": ".pls",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4267.txt"
+    },
+    {
+        "Name": "PostScript",
+        "Mimetype": "application/postscript",
+        "Icon": "",
+        "Extension": ".ai",
+        "Info": "https://en.wikipedia.org/wiki/PostScript"
+    },
+    {
+        "Name": "CU-Writer",
+        "Mimetype": "application/prs.cww",
+        "Icon": "",
+        "Extension": ".cww",
+        "Info": ""
+    },
+    {
+        "Name": "Portable Symmetric Key Container",
+        "Mimetype": "application/pskc+xml",
+        "Icon": "",
+        "Extension": ".pskcxml",
+        "Info": "http://tools.ietf.org/html/rfc6030"
+    },
+    {
+        "Name": "Resource Description Framework",
+        "Mimetype": "application/rdf+xml",
+        "Icon": "",
+        "Extension": ".rdf",
+        "Info": "http://www.ietf.org/rfc/rfc3870.txt"
+    },
+    {
+        "Name": "IMS Networks",
+        "Mimetype": "application/reginfo+xml",
+        "Icon": "",
+        "Extension": ".rif",
+        "Info": ""
+    },
+    {
+        "Name": "Relax NG Compact Syntax",
+        "Mimetype": "application/relax-ng-compact-syntax",
+        "Icon": "",
+        "Extension": ".rnc",
+        "Info": "http://relaxng.org/"
+    },
+    {
+        "Name": "XML Resource Lists",
+        "Mimetype": "application/resource-lists+xml",
+        "Icon": "",
+        "Extension": ".rl",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4826.txt"
+    },
+    {
+        "Name": "XML Resource Lists Diff",
+        "Mimetype": "application/resource-lists-diff+xml",
+        "Icon": "",
+        "Extension": ".rld",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4826.txt"
+    },
+    {
+        "Name": "XML Resource Lists",
+        "Mimetype": "application/rls-services+xml",
+        "Icon": "",
+        "Extension": ".rs",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4826.txt"
+    },
+    {
+        "Name": "Really Simple Discovery",
+        "Mimetype": "application/rsd+xml",
+        "Icon": "",
+        "Extension": ".rsd",
+        "Info": "https://en.wikipedia.org/wiki/Really_Simple_Discovery"
+    },
+    {
+        "Name": "RSS - Really Simple Syndication",
+        "Mimetype": "application/rss+xml",
+        "Icon": "",
+        "Extension": ".rss, .xml",
+        "Info": "https://en.wikipedia.org/wiki/RSS"
+    },
+    {
+        "Name": "Rich Text Format",
+        "Mimetype": "application/rtf",
+        "Icon": "",
+        "Extension": ".rtf",
+        "Info": "https://en.wikipedia.org/wiki/Rich_Text_Format"
+    },
+    {
+        "Name": "Systems Biology Markup Language",
+        "Mimetype": "application/sbml+xml",
+        "Icon": "",
+        "Extension": ".sbml",
+        "Info": "http://www.rfc-editor.org/rfc/rfc3823.txt"
+    },
+    {
+        "Name": "Server-Based Certificate Validation Protocol - Validation Request",
+        "Mimetype": "application/scvp-cv-request",
+        "Icon": "",
+        "Extension": ".scq",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5055.txt"
+    },
+    {
+        "Name": "Server-Based Certificate Validation Protocol - Validation Response",
+        "Mimetype": "application/scvp-cv-response",
+        "Icon": "",
+        "Extension": ".scs",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5055.txt"
+    },
+    {
+        "Name": "Server-Based Certificate Validation Protocol - Validation Policies - Request",
+        "Mimetype": "application/scvp-vp-request",
+        "Icon": "",
+        "Extension": ".spq",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5055.txt"
+    },
+    {
+        "Name": "Server-Based Certificate Validation Protocol - Validation Policies - Response",
+        "Mimetype": "application/scvp-vp-response",
+        "Icon": "",
+        "Extension": ".spp",
+        "Info": "http://www.rfc-editor.org/rfc/rfc5055.txt"
+    },
+    {
+        "Name": "Session Description Protocol",
+        "Mimetype": "application/sdp",
+        "Icon": "",
+        "Extension": ".sdp",
+        "Info": "http://www.ietf.org/rfc/rfc2327.txt"
+    },
+    {
+        "Name": "Secure Electronic Transaction - Payment",
+        "Mimetype": "application/set-payment-initiation",
+        "Icon": "",
+        "Extension": ".setpay",
+        "Info": "http://www.iana.org/assignments/media-types/application/set-payment-initiation"
+    },
+    {
+        "Name": "Secure Electronic Transaction - Registration",
+        "Mimetype": "application/set-registration-initiation",
+        "Icon": "",
+        "Extension": ".setreg",
+        "Info": "http://www.iana.org/assignments/media-types/application/set-registration-initiation"
+    },
+    {
+        "Name": "S Hexdump Format",
+        "Mimetype": "application/shf+xml",
+        "Icon": "",
+        "Extension": ".shf",
+        "Info": "http://www.rfc-editor.org/rfc/rfc4194.txt"
+    },
+    {
+        "Name": "Synchronized Multimedia Integration Language",
+        "Mimetype": "application/smil+xml",
+        "Icon": "",
+        "Extension": ".smi",
+        "Info": "http://tools.ietf.org/html/rfc4536"
+    },
+    {
+        "Name": "SPARQL - Query",
+        "Mimetype": "application/sparql-query",
+        "Icon": "",
+        "Extension": ".rq",
+        "Info": "http://www.w3.org/TR/2006/CR-rdf-sparql-XMLres-20060406/"
+    },
+    {
+        "Name": "SPARQL - Results",
+        "Mimetype": "application/sparql-results+xml",
+        "Icon": "",
+        "Extension": ".srx",
+        "Info": "http://www.w3.org/TR/2006/CR-rdf-sparql-XMLres-20060406/"
+    },
+    {
+        "Name": "Speech Recognition Grammar Specification",
+        "Mimetype": "application/srgs",
+        "Icon": "",
+        "Extension": ".gram",
+        "Info": "http://www.w3.org/TR/speech-grammar/"
+    },
+    {
+        "Name": "Speech Recognition Grammar Specification - XML",
+        "Mimetype": "application/srgs+xml",
+        "Icon": "",
+        "Extension": ".grxml",
+        "Info": "http://www.w3.org/TR/speech-grammar/"
+    },
+    {
+        "Name": "Search/Retrieve via URL Response Format",
+        "Mimetype": "application/sru+xml",
+        "Icon": "",
+        "Extension": ".sru",
+        "Info": "http://tools.ietf.org/html/rfc6207"
+    },
+    {
+        "Name": "Speech Synthesis Markup Language",
+        "Mimetype": "application/ssml+xml",
+        "Icon": "",
+        "Extension": ".ssml",
+        "Info": "http://www.w3.org/TR/speech-synthesis/"
+    },
+    {
+        "Name": "Text Encoding and Interchange",
+        "Mimetype": "application/tei+xml",
+        "Icon": "",
+        "Extension": ".tei",
+        "Info": "http://tools.ietf.org/html/rfc6129"
+    },
+    {
+        "Name": "Sharing Transaction Fraud Data",
+        "Mimetype": "application/thraud+xml",
+        "Icon": "",
+        "Extension": ".tfi",
+        "Info": "http://tools.ietf.org/html/rfc5941"
+    },
+    {
+        "Name": "Time Stamped Data Envelope",
+        "Mimetype": "application/timestamped-data",
+        "Icon": "",
+        "Extension": ".tsd",
+        "Info": "http://tools.ietf.org/html/rfc5955"
+    },
+    {
+        "Name": "3rd Generation Partnership Project - Pic Large",
+        "Mimetype": "application/vnd.3gpp.pic-bw-large",
+        "Icon": "",
+        "Extension": ".plb",
+        "Info": "http://www.3gpp.org/specifications"
+    },
+    {
+        "Name": "3rd Generation Partnership Project - Pic Small",
+        "Mimetype": "application/vnd.3gpp.pic-bw-small",
+        "Icon": "",
+        "Extension": ".psb",
+        "Info": "http://www.3gpp.org/specifications"
+    },
+    {
+        "Name": "3rd Generation Partnership Project - Pic Var",
+        "Mimetype": "application/vnd.3gpp.pic-bw-var",
+        "Icon": "",
+        "Extension": ".pvb",
+        "Info": "http://www.3gpp.org/specifications"
+    },
+    {
+        "Name": "3rd Generation Partnership Project - Transaction Capabilities Application Part",
+        "Mimetype": "application/vnd.3gpp2.tcap",
+        "Icon": "",
+        "Extension": ".tcap",
+        "Info": "http://www.3gpp.org/specifications"
+    },
+    {
+        "Name": "3M Post It Notes",
+        "Mimetype": "application/vnd.3m.post-it-notes",
+        "Icon": "",
+        "Extension": ".pwn",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.3M.Post-it-Notes"
+    },
+    {
+        "Name": "Simply Accounting",
+        "Mimetype": "application/vnd.accpac.simply.aso",
+        "Icon": "",
+        "Extension": ".aso",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.aso"
+    },
+    {
+        "Name": "Simply Accounting - Data Import",
+        "Mimetype": "application/vnd.accpac.simply.imp",
+        "Icon": "",
+        "Extension": ".imp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.accpac.simply.imp"
+    },
+    {
+        "Name": "ACU Cobol",
+        "Mimetype": "application/vnd.acucobol",
+        "Icon": "",
+        "Extension": ".acu",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd-acucobol"
+    },
+    {
+        "Name": "ACU Cobol",
+        "Mimetype": "application/vnd.acucorp",
+        "Icon": "",
+        "Extension": ".atc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd-acucobol"
+    },
+    {
+        "Name": "Adobe AIR Application",
+        "Mimetype": "application/vnd.adobe.air-application-installer-package+zip",
+        "Icon": "",
+        "Extension": ".air",
+        "Info": "http://help.adobe.com/en_US/air/build/air_buildingapps.pdf"
+    },
+    {
+        "Name": "Adobe Flex Project",
+        "Mimetype": "application/vnd.adobe.fxp",
+        "Icon": "",
+        "Extension": ".fxp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.adobe.fxp"
+    },
+    {
+        "Name": "Adobe XML Data Package",
+        "Mimetype": "application/vnd.adobe.xdp+xml",
+        "Icon": "",
+        "Extension": ".xdp",
+        "Info": "https://en.wikipedia.org/wiki/XML_Data_Package"
+    },
+    {
+        "Name": "Adobe XML Forms Data Format",
+        "Mimetype": "application/vnd.adobe.xfdf",
+        "Icon": "",
+        "Extension": ".xfdf",
+        "Info": "https://en.wikipedia.org/wiki/XFDF#Interactive_elements"
+    },
+    {
+        "Name": "Ahead AIR Application",
+        "Mimetype": "application/vnd.ahead.space",
+        "Icon": "",
+        "Extension": ".ahead",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ahead.space"
+    },
+    {
+        "Name": "AirZip FileSECURE",
+        "Mimetype": "application/vnd.airzip.filesecure.azf",
+        "Icon": "",
+        "Extension": ".azf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azf"
+    },
+    {
+        "Name": "AirZip FileSECURE",
+        "Mimetype": "application/vnd.airzip.filesecure.azs",
+        "Icon": "",
+        "Extension": ".azs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.airzip.filesecure.azs"
+    },
+    {
+        "Name": "Amazon Kindle eBook format",
+        "Mimetype": "application/vnd.amazon.ebook",
+        "Icon": "",
+        "Extension": ".azw",
+        "Info": "https://kdp.amazon.com/self-publishing/help?topicId=A328FYMFAE7VNY"
+    },
+    {
+        "Name": "Active Content Compression",
+        "Mimetype": "application/vnd.americandynamics.acc",
+        "Icon": "",
+        "Extension": ".acc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.americandynamics.acc"
+    },
+    {
+        "Name": "AmigaDE",
+        "Mimetype": "application/vnd.amiga.ami",
+        "Icon": "",
+        "Extension": ".ami",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.amiga.ami"
+    },
+    {
+        "Name": "Android Package Archive",
+        "Mimetype": "application/vnd.android.package-archive",
+        "Icon": "",
+        "Extension": ".apk",
+        "Info": "https://en.wikipedia.org/wiki/APK_%28file_format%29"
+    },
+    {
+        "Name": "ANSER-WEB Terminal Client - Certificate Issue",
+        "Mimetype": "application/vnd.anser-web-certificate-issue-initiation",
+        "Icon": "",
+        "Extension": ".cii",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.anser-web-certificate-issue-initiation"
+    },
+    {
+        "Name": "ANSER-WEB Terminal Client - Web Funds Transfer",
+        "Mimetype": "application/vnd.anser-web-funds-transfer-initiation",
+        "Icon": "",
+        "Extension": ".fti",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.anser-web-funds-transfer-initiation"
+    },
+    {
+        "Name": "Antix Game Player",
+        "Mimetype": "application/vnd.antix.game-component",
+        "Icon": "",
+        "Extension": ".atx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.antix.game-component"
+    },
+    {
+        "Name": "Apple Installer Package",
+        "Mimetype": "application/vnd.apple.installer+xml",
+        "Icon": "",
+        "Extension": ".mpkg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.apple.installer+xml"
+    },
+    {
+        "Name": "Multimedia Playlist Unicode",
+        "Mimetype": "application/vnd.apple.mpegurl",
+        "Icon": "",
+        "Extension": ".m3u8",
+        "Info": "https://en.wikipedia.org/wiki/M3U"
+    },
+    {
+        "Name": "Arista Networks Software Image",
+        "Mimetype": "application/vnd.aristanetworks.swi",
+        "Icon": "",
+        "Extension": ".swi",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.aristanetworks.swi"
+    },
+    {
+        "Name": "Audiograph",
+        "Mimetype": "application/vnd.audiograph",
+        "Icon": "",
+        "Extension": ".aep",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.audiograph"
+    },
+    {
+        "Name": "Blueice Research Multipass",
+        "Mimetype": "application/vnd.blueice.multipass",
+        "Icon": "",
+        "Extension": ".mpm",
+        "Info": "http://www.cisionwire.com/blueice-research/r/the-multipass-gives-pda-users-better-security,e37928"
+    },
+    {
+        "Name": "BMI Drawing Data Interchange",
+        "Mimetype": "application/vnd.bmi",
+        "Icon": "",
+        "Extension": ".bmi",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.bmi"
+    },
+    {
+        "Name": "BusinessObjects",
+        "Mimetype": "application/vnd.businessobjects",
+        "Icon": "",
+        "Extension": ".rep",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.businessobjects"
+    },
+    {
+        "Name": "CambridgeSoft Chem Draw",
+        "Mimetype": "application/vnd.chemdraw+xml",
+        "Icon": "",
+        "Extension": ".cdxml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.chemdraw+xml"
+    },
+    {
+        "Name": "Karaoke on Chipnuts Chipsets",
+        "Mimetype": "application/vnd.chipnuts.karaoke-mmd",
+        "Icon": "",
+        "Extension": ".mmd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.chipnuts.karaoke-mmd"
+    },
+    {
+        "Name": "Interactive Geometry Software Cinderella",
+        "Mimetype": "application/vnd.cinderella",
+        "Icon": "",
+        "Extension": ".cdy",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cinderella"
+    },
+    {
+        "Name": "Claymore Data Files",
+        "Mimetype": "application/vnd.claymore",
+        "Icon": "",
+        "Extension": ".cla",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.claymore"
+    },
+    {
+        "Name": "RetroPlatform Player",
+        "Mimetype": "application/vnd.cloanto.rp9",
+        "Icon": "",
+        "Extension": ".rp9",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cloanto.rp9"
+    },
+    {
+        "Name": "Clonk Game",
+        "Mimetype": "application/vnd.clonk.c4group",
+        "Icon": "",
+        "Extension": ".c4g",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.clonk.c4group"
+    },
+    {
+        "Name": "ClueTrust CartoMobile - Config",
+        "Mimetype": "application/vnd.cluetrust.cartomobile-config",
+        "Icon": "",
+        "Extension": ".c11amc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config"
+    },
+    {
+        "Name": "ClueTrust CartoMobile - Config Package",
+        "Mimetype": "application/vnd.cluetrust.cartomobile-config-pkg",
+        "Icon": "",
+        "Extension": ".c11amz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cluetrust.cartomobile-config"
+    },
+    {
+        "Name": "Sixth Floor Media - CommonSpace",
+        "Mimetype": "application/vnd.commonspace",
+        "Icon": "",
+        "Extension": ".csp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.commonspace"
+    },
+    {
+        "Name": "CIM Database",
+        "Mimetype": "application/vnd.contact.cmsg",
+        "Icon": "",
+        "Extension": ".cdbcmsg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.contact.cmsg"
+    },
+    {
+        "Name": "CosmoCaller",
+        "Mimetype": "application/vnd.cosmocaller",
+        "Icon": "",
+        "Extension": ".cmc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cosmocaller"
+    },
+    {
+        "Name": "CrickSoftware - Clicker",
+        "Mimetype": "application/vnd.crick.clicker",
+        "Icon": "",
+        "Extension": ".clkx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.crick.clicker"
+    },
+    {
+        "Name": "CrickSoftware - Clicker - Keyboard",
+        "Mimetype": "application/vnd.crick.clicker.keyboard",
+        "Icon": "",
+        "Extension": ".clkk",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.crick.clicker"
+    },
+    {
+        "Name": "CrickSoftware - Clicker - Palette",
+        "Mimetype": "application/vnd.crick.clicker.palette",
+        "Icon": "",
+        "Extension": ".clkp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.crick.clicker"
+    },
+    {
+        "Name": "CrickSoftware - Clicker - Template",
+        "Mimetype": "application/vnd.crick.clicker.template",
+        "Icon": "",
+        "Extension": ".clkt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.crick.clicker"
+    },
+    {
+        "Name": "CrickSoftware - Clicker - Wordbank",
+        "Mimetype": "application/vnd.crick.clicker.wordbank",
+        "Icon": "",
+        "Extension": ".clkw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.crick.clicker"
+    },
+    {
+        "Name": "Critical Tools - PERT Chart EXPERT",
+        "Mimetype": "application/vnd.criticaltools.wbs+xml",
+        "Icon": "",
+        "Extension": ".wbs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.criticaltools.wbs+xml"
+    },
+    {
+        "Name": "PosML",
+        "Mimetype": "application/vnd.ctc-posml",
+        "Icon": "",
+        "Extension": ".pml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ctc-posml"
+    },
+    {
+        "Name": "Adobe PostScript Printer Description File Format",
+        "Mimetype": "application/vnd.cups-ppd",
+        "Icon": "",
+        "Extension": ".ppd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.cups-ppd"
+    },
+    {
+        "Name": "CURL Applet",
+        "Mimetype": "application/vnd.curl.car",
+        "Icon": "",
+        "Extension": ".car",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.curl.car"
+    },
+    {
+        "Name": "CURL Applet",
+        "Mimetype": "application/vnd.curl.pcurl",
+        "Icon": "",
+        "Extension": ".pcurl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.curl.pcurl"
+    },
+    {
+        "Name": "RemoteDocs R-Viewer",
+        "Mimetype": "application/vnd.data-vision.rdz",
+        "Icon": "",
+        "Extension": ".rdz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.data-vision.rdz"
+    },
+    {
+        "Name": "FCS Express Layout Link",
+        "Mimetype": "application/vnd.denovo.fcselayout-link",
+        "Icon": "",
+        "Extension": ".fe_launch",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.denovo.fcselayout-link"
+    },
+    {
+        "Name": "New Moon Liftoff/DNA",
+        "Mimetype": "application/vnd.dna",
+        "Icon": "",
+        "Extension": ".dna",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dna"
+    },
+    {
+        "Name": "Dolby Meridian Lossless Packing",
+        "Mimetype": "application/vnd.dolby.mlp",
+        "Icon": "",
+        "Extension": ".mlp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dolby.mlp"
+    },
+    {
+        "Name": "DPGraph",
+        "Mimetype": "application/vnd.dpgraph",
+        "Icon": "",
+        "Extension": ".dpg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dpgraph"
+    },
+    {
+        "Name": "DreamFactory",
+        "Mimetype": "application/vnd.dreamfactory",
+        "Icon": "",
+        "Extension": ".dfac",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dreamfactory"
+    },
+    {
+        "Name": "Digital Video Broadcasting",
+        "Mimetype": "application/vnd.dvb.ait",
+        "Icon": "",
+        "Extension": ".ait",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dvb.ait"
+    },
+    {
+        "Name": "Digital Video Broadcasting",
+        "Mimetype": "application/vnd.dvb.service",
+        "Icon": "",
+        "Extension": ".svc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dvb.svc"
+    },
+    {
+        "Name": "DynaGeo",
+        "Mimetype": "application/vnd.dynageo",
+        "Icon": "",
+        "Extension": ".geo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.dynageo"
+    },
+    {
+        "Name": "EcoWin Chart",
+        "Mimetype": "application/vnd.ecowin.chart",
+        "Icon": "",
+        "Extension": ".mag",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ecowin.chart"
+    },
+    {
+        "Name": "Enliven Viewer",
+        "Mimetype": "application/vnd.enliven",
+        "Icon": "",
+        "Extension": ".nml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.enliven"
+    },
+    {
+        "Name": "QUASS Stream Player",
+        "Mimetype": "application/vnd.epson.esf",
+        "Icon": "",
+        "Extension": ".esf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.epson.esf"
+    },
+    {
+        "Name": "QUASS Stream Player",
+        "Mimetype": "application/vnd.epson.msf",
+        "Icon": "",
+        "Extension": ".msf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.epson.msf"
+    },
+    {
+        "Name": "QuickAnime Player",
+        "Mimetype": "application/vnd.epson.quickanime",
+        "Icon": "",
+        "Extension": ".qam",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.epson.quickanime"
+    },
+    {
+        "Name": "SimpleAnimeLite Player",
+        "Mimetype": "application/vnd.epson.salt",
+        "Icon": "",
+        "Extension": ".slt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.epson.salt"
+    },
+    {
+        "Name": "QUASS Stream Player",
+        "Mimetype": "application/vnd.epson.ssf",
+        "Icon": "",
+        "Extension": ".ssf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.epson.ssf"
+    },
+    {
+        "Name": "MICROSEC e-Szign�",
+        "Mimetype": "application/vnd.eszigno3+xml",
+        "Icon": "",
+        "Extension": ".es3",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.eszigno3+xml"
+    },
+    {
+        "Name": "EZPix Secure Photo Album",
+        "Mimetype": "application/vnd.ezpix-album",
+        "Icon": "",
+        "Extension": ".ez2",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ezpix-album"
+    },
+    {
+        "Name": "EZPix Secure Photo Album",
+        "Mimetype": "application/vnd.ezpix-package",
+        "Icon": "",
+        "Extension": ".ez3",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ezpix-package"
+    },
+    {
+        "Name": "Forms Data Format",
+        "Mimetype": "application/vnd.fdf",
+        "Icon": "",
+        "Extension": ".fdf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd-fdf"
+    },
+    {
+        "Name": "Digital Siesmograph Networks - SEED Datafiles",
+        "Mimetype": "application/vnd.fdsn.seed",
+        "Icon": "",
+        "Extension": ".seed",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fdsn.seed"
+    },
+    {
+        "Name": "NpGraphIt",
+        "Mimetype": "application/vnd.flographit",
+        "Icon": "",
+        "Extension": ".gph",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.flographit"
+    },
+    {
+        "Name": "FluxTime Clip",
+        "Mimetype": "application/vnd.fluxtime.clip",
+        "Icon": "",
+        "Extension": ".ftc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fluxtime.clip"
+    },
+    {
+        "Name": "FrameMaker Normal Format",
+        "Mimetype": "application/vnd.framemaker",
+        "Icon": "",
+        "Extension": ".fm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.framemaker"
+    },
+    {
+        "Name": "Frogans Player",
+        "Mimetype": "application/vnd.frogans.fnc",
+        "Icon": "",
+        "Extension": ".fnc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.frogans.fnc"
+    },
+    {
+        "Name": "Frogans Player",
+        "Mimetype": "application/vnd.frogans.ltf",
+        "Icon": "",
+        "Extension": ".ltf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.frogans.ltf"
+    },
+    {
+        "Name": "Friendly Software Corporation",
+        "Mimetype": "application/vnd.fsc.weblaunch",
+        "Icon": "",
+        "Extension": ".fsc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fsc.weblaunch"
+    },
+    {
+        "Name": "Fujitsu Oasys",
+        "Mimetype": "application/vnd.fujitsu.oasys",
+        "Icon": "",
+        "Extension": ".oas",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys"
+    },
+    {
+        "Name": "Fujitsu Oasys",
+        "Mimetype": "application/vnd.fujitsu.oasys2",
+        "Icon": "",
+        "Extension": ".oa2",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys2"
+    },
+    {
+        "Name": "Fujitsu Oasys",
+        "Mimetype": "application/vnd.fujitsu.oasys3",
+        "Icon": "",
+        "Extension": ".oa3",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasys3"
+    },
+    {
+        "Name": "Fujitsu Oasys",
+        "Mimetype": "application/vnd.fujitsu.oasysgp",
+        "Icon": "",
+        "Extension": ".fg5",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysgp"
+    },
+    {
+        "Name": "Fujitsu Oasys",
+        "Mimetype": "application/vnd.fujitsu.oasysprs",
+        "Icon": "",
+        "Extension": ".bh2",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujitsu.oasysprs"
+    },
+    {
+        "Name": "Fujitsu - Xerox 2D CAD Data",
+        "Mimetype": "application/vnd.fujixerox.ddd",
+        "Icon": "",
+        "Extension": ".ddd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujixerox.ddd"
+    },
+    {
+        "Name": "Fujitsu - Xerox DocuWorks",
+        "Mimetype": "application/vnd.fujixerox.docuworks",
+        "Icon": "",
+        "Extension": ".xdw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks"
+    },
+    {
+        "Name": "Fujitsu - Xerox DocuWorks Binder",
+        "Mimetype": "application/vnd.fujixerox.docuworks.binder",
+        "Icon": "",
+        "Extension": ".xbd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fujixerox.docuworks.binder"
+    },
+    {
+        "Name": "FuzzySheet",
+        "Mimetype": "application/vnd.fuzzysheet",
+        "Icon": "",
+        "Extension": ".fzs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.fuzzysheet"
+    },
+    {
+        "Name": "Genomatix Tuxedo Framework",
+        "Mimetype": "application/vnd.genomatix.tuxedo",
+        "Icon": "",
+        "Extension": ".txd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.genomatix.tuxedo"
+    },
+    {
+        "Name": "GeoGebra",
+        "Mimetype": "application/vnd.geogebra.file",
+        "Icon": "",
+        "Extension": ".ggb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geogebra.file"
+    },
+    {
+        "Name": "GeoGebra",
+        "Mimetype": "application/vnd.geogebra.tool",
+        "Icon": "",
+        "Extension": ".ggt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geogebra.tool"
+    },
+    {
+        "Name": "GeoMetry Explorer",
+        "Mimetype": "application/vnd.geometry-explorer",
+        "Icon": "",
+        "Extension": ".gex",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geometry-explorer"
+    },
+    {
+        "Name": "GEONExT and JSXGraph",
+        "Mimetype": "application/vnd.geonext",
+        "Icon": "",
+        "Extension": ".gxt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geonext"
+    },
+    {
+        "Name": "GeoplanW",
+        "Mimetype": "application/vnd.geoplan",
+        "Icon": "",
+        "Extension": ".g2w",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geoplan"
+    },
+    {
+        "Name": "GeospacW",
+        "Mimetype": "application/vnd.geospace",
+        "Icon": "",
+        "Extension": ".g3w",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.geospace"
+    },
+    {
+        "Name": "GameMaker ActiveX",
+        "Mimetype": "application/vnd.gmx",
+        "Icon": "",
+        "Extension": ".gmx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.gmx"
+    },
+    {
+        "Name": "Google Earth - KML",
+        "Mimetype": "application/vnd.google-earth.kml+xml",
+        "Icon": "",
+        "Extension": ".kml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
+    },
+    {
+        "Name": "Google Earth - Zipped KML",
+        "Mimetype": "application/vnd.google-earth.kmz",
+        "Icon": "",
+        "Extension": ".kmz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz"
+    },
+    {
+        "Name": "GrafEq",
+        "Mimetype": "application/vnd.grafeq",
+        "Icon": "",
+        "Extension": ".gqf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.grafeq"
+    },
+    {
+        "Name": "Groove - Account",
+        "Mimetype": "application/vnd.groove-account",
+        "Icon": "",
+        "Extension": ".gac",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-account"
+    },
+    {
+        "Name": "Groove - Help",
+        "Mimetype": "application/vnd.groove-help",
+        "Icon": "",
+        "Extension": ".ghf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-help"
+    },
+    {
+        "Name": "Groove - Identity Message",
+        "Mimetype": "application/vnd.groove-identity-message",
+        "Icon": "",
+        "Extension": ".gim",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-identity-message"
+    },
+    {
+        "Name": "Groove - Injector",
+        "Mimetype": "application/vnd.groove-injector",
+        "Icon": "",
+        "Extension": ".grv",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-injector"
+    },
+    {
+        "Name": "Groove - Tool Message",
+        "Mimetype": "application/vnd.groove-tool-message",
+        "Icon": "",
+        "Extension": ".gtm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-tool-message"
+    },
+    {
+        "Name": "Groove - Tool Template",
+        "Mimetype": "application/vnd.groove-tool-template",
+        "Icon": "",
+        "Extension": ".tpl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-tool-template"
+    },
+    {
+        "Name": "Groove - Vcard",
+        "Mimetype": "application/vnd.groove-vcard",
+        "Icon": "",
+        "Extension": ".vcg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.groove-vcard"
+    },
+    {
+        "Name": "Hypertext Application Language",
+        "Mimetype": "application/vnd.hal+xml",
+        "Icon": "",
+        "Extension": ".hal",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hal+xml"
+    },
+    {
+        "Name": "ZVUE Media Manager",
+        "Mimetype": "application/vnd.handheld-entertainment+xml",
+        "Icon": "",
+        "Extension": ".zmm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.HandHeld-Entertainment+xml"
+    },
+    {
+        "Name": "Homebanking Computer Interface (HBCI)",
+        "Mimetype": "application/vnd.hbci",
+        "Icon": "",
+        "Extension": ".hbci",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hbci"
+    },
+    {
+        "Name": "Archipelago Lesson Player",
+        "Mimetype": "application/vnd.hhe.lesson-player",
+        "Icon": "",
+        "Extension": ".les",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hhe.lesson-player"
+    },
+    {
+        "Name": "HP-GL/2 and HP RTL",
+        "Mimetype": "application/vnd.hp-hpgl",
+        "Icon": "",
+        "Extension": ".hpgl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-HPGL"
+    },
+    {
+        "Name": "Hewlett Packard Instant Delivery",
+        "Mimetype": "application/vnd.hp-hpid",
+        "Icon": "",
+        "Extension": ".hpid",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-hpid"
+    },
+    {
+        "Name": "Hewlett-Packard's WebPrintSmart",
+        "Mimetype": "application/vnd.hp-hps",
+        "Icon": "",
+        "Extension": ".hps",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-hps"
+    },
+    {
+        "Name": "HP Indigo Digital Press - Job Layout Languate",
+        "Mimetype": "application/vnd.hp-jlyt",
+        "Icon": "",
+        "Extension": ".jlt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-jlyt"
+    },
+    {
+        "Name": "HP Printer Command Language",
+        "Mimetype": "application/vnd.hp-pcl",
+        "Icon": "",
+        "Extension": ".pcl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-PCL"
+    },
+    {
+        "Name": "PCL 6 Enhanced (Formely PCL XL)",
+        "Mimetype": "application/vnd.hp-pclxl",
+        "Icon": "",
+        "Extension": ".pclxl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hp-PCLXL"
+    },
+    {
+        "Name": "Hydrostatix Master Suite",
+        "Mimetype": "application/vnd.hydrostatix.sof-data",
+        "Icon": "",
+        "Extension": ".sfd-hdstx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hydrostatix.sof-data"
+    },
+    {
+        "Name": "3D Crossword Plugin",
+        "Mimetype": "application/vnd.hzn-3d-crossword",
+        "Icon": "",
+        "Extension": ".x3d",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.hzn-3d-crossword"
+    },
+    {
+        "Name": "MiniPay",
+        "Mimetype": "application/vnd.ibm.minipay",
+        "Icon": "",
+        "Extension": ".mpy",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ibm.MiniPay"
+    },
+    {
+        "Name": "MO:DCA-P",
+        "Mimetype": "application/vnd.ibm.modcap",
+        "Icon": "",
+        "Extension": ".afp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ibm.modcap"
+    },
+    {
+        "Name": "IBM DB2 Rights Manager",
+        "Mimetype": "application/vnd.ibm.rights-management",
+        "Icon": "",
+        "Extension": ".irm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ibm.rights-management"
+    },
+    {
+        "Name": "IBM Electronic Media Management System - Secure Container",
+        "Mimetype": "application/vnd.ibm.secure-container",
+        "Icon": "",
+        "Extension": ".sc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ibm.secure-container"
+    },
+    {
+        "Name": "ICC profile",
+        "Mimetype": "application/vnd.iccprofile",
+        "Icon": "",
+        "Extension": ".icc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.iccprofile"
+    },
+    {
+        "Name": "igLoader",
+        "Mimetype": "application/vnd.igloader",
+        "Icon": "",
+        "Extension": ".igl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.igloader"
+    },
+    {
+        "Name": "ImmerVision PURE Players",
+        "Mimetype": "application/vnd.immervision-ivp",
+        "Icon": "",
+        "Extension": ".ivp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.immervision-ivp"
+    },
+    {
+        "Name": "ImmerVision PURE Players",
+        "Mimetype": "application/vnd.immervision-ivu",
+        "Icon": "",
+        "Extension": ".ivu",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.immervision-ivu"
+    },
+    {
+        "Name": "IOCOM Visimeet",
+        "Mimetype": "application/vnd.insors.igm",
+        "Icon": "",
+        "Extension": ".igm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.insors.igm"
+    },
+    {
+        "Name": "Intercon FormNet",
+        "Mimetype": "application/vnd.intercon.formnet",
+        "Icon": "",
+        "Extension": ".xpw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.intercon.formnet"
+    },
+    {
+        "Name": "Interactive Geometry Software",
+        "Mimetype": "application/vnd.intergeo",
+        "Icon": "",
+        "Extension": ".i2g",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.intergeo"
+    },
+    {
+        "Name": "Open Financial Exchange",
+        "Mimetype": "application/vnd.intu.qbo",
+        "Icon": "",
+        "Extension": ".qbo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.intu.qbo"
+    },
+    {
+        "Name": "Quicken",
+        "Mimetype": "application/vnd.intu.qfx",
+        "Icon": "",
+        "Extension": ".qfx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.intu.qfx"
+    },
+    {
+        "Name": "IP Unplugged Roaming Client",
+        "Mimetype": "application/vnd.ipunplugged.rcprofile",
+        "Icon": "",
+        "Extension": ".rcprofile",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ipunplugged.rcprofile"
+    },
+    {
+        "Name": "iRepository / Lucidoc Editor",
+        "Mimetype": "application/vnd.irepository.package+xml",
+        "Icon": "",
+        "Extension": ".irp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.irepository.package+xml"
+    },
+    {
+        "Name": "Express by Infoseek",
+        "Mimetype": "application/vnd.is-xpr",
+        "Icon": "",
+        "Extension": ".xpr",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.is-xpr"
+    },
+    {
+        "Name": "International Society for Advancement of Cytometry",
+        "Mimetype": "application/vnd.isac.fcs",
+        "Icon": "",
+        "Extension": ".fcs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.isac.fcs"
+    },
+    {
+        "Name": "Lightspeed Audio Lab",
+        "Mimetype": "application/vnd.jam",
+        "Icon": "",
+        "Extension": ".jam",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.jam"
+    },
+    {
+        "Name": "Mobile Information Device Profile",
+        "Mimetype": "application/vnd.jcp.javame.midlet-rms",
+        "Icon": "",
+        "Extension": ".rms",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.jcp.javame.midlet-rms"
+    },
+    {
+        "Name": "RhymBox",
+        "Mimetype": "application/vnd.jisp",
+        "Icon": "",
+        "Extension": ".jisp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.jisp"
+    },
+    {
+        "Name": "Joda Archive",
+        "Mimetype": "application/vnd.joost.joda-archive",
+        "Icon": "",
+        "Extension": ".joda",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.joost.joda-archive"
+    },
+    {
+        "Name": "Kahootz",
+        "Mimetype": "application/vnd.kahootz",
+        "Icon": "",
+        "Extension": ".ktz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kahootz"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Karbon",
+        "Mimetype": "application/vnd.kde.karbon",
+        "Icon": "",
+        "Extension": ".karbon",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.karbon"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - KChart",
+        "Mimetype": "application/vnd.kde.kchart",
+        "Icon": "",
+        "Extension": ".chrt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kchart"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kformula",
+        "Mimetype": "application/vnd.kde.kformula",
+        "Icon": "",
+        "Extension": ".kfo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kformula"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kivio",
+        "Mimetype": "application/vnd.kde.kivio",
+        "Icon": "",
+        "Extension": ".flw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kivio"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kontour",
+        "Mimetype": "application/vnd.kde.kontour",
+        "Icon": "",
+        "Extension": ".kon",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kontour"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kpresenter",
+        "Mimetype": "application/vnd.kde.kpresenter",
+        "Icon": "",
+        "Extension": ".kpr",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kpresenter"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kspread",
+        "Mimetype": "application/vnd.kde.kspread",
+        "Icon": "",
+        "Extension": ".ksp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kspread"
+    },
+    {
+        "Name": "KDE KOffice Office Suite - Kword",
+        "Mimetype": "application/vnd.kde.kword",
+        "Icon": "",
+        "Extension": ".kwd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kde.kword"
+    },
+    {
+        "Name": "Kenamea App",
+        "Mimetype": "application/vnd.kenameaapp",
+        "Icon": "",
+        "Extension": ".htke",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kenameaapp"
+    },
+    {
+        "Name": "Kidspiration",
+        "Mimetype": "application/vnd.kidspiration",
+        "Icon": "",
+        "Extension": ".kia",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kidspiration"
+    },
+    {
+        "Name": "Kinar Applications",
+        "Mimetype": "application/vnd.kinar",
+        "Icon": "",
+        "Extension": ".kne",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.Kinar"
+    },
+    {
+        "Name": "SSEYO Koan Play File",
+        "Mimetype": "application/vnd.koan",
+        "Icon": "",
+        "Extension": ".skp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.koan"
+    },
+    {
+        "Name": "Kodak Storyshare",
+        "Mimetype": "application/vnd.kodak-descriptor",
+        "Icon": "",
+        "Extension": ".sse",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.kodak-descriptor"
+    },
+    {
+        "Name": "Laser App Enterprise",
+        "Mimetype": "application/vnd.las.las+xml",
+        "Icon": "",
+        "Extension": ".lasxml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.las.las+xml"
+    },
+    {
+        "Name": "Life Balance - Desktop Edition",
+        "Mimetype": "application/vnd.llamagraphics.life-balance.desktop",
+        "Icon": "",
+        "Extension": ".lbd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.desktop"
+    },
+    {
+        "Name": "Life Balance - Exchange Format",
+        "Mimetype": "application/vnd.llamagraphics.life-balance.exchange+xml",
+        "Icon": "",
+        "Extension": ".lbe",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.llamagraphics.life-balance.exchange+xml"
+    },
+    {
+        "Name": "Lotus 1-2-3",
+        "Mimetype": "application/vnd.lotus-1-2-3",
+        "Icon": "",
+        "Extension": ".123",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-1-2-3"
+    },
+    {
+        "Name": "Lotus Approach",
+        "Mimetype": "application/vnd.lotus-approach",
+        "Icon": "",
+        "Extension": ".apr",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-approach"
+    },
+    {
+        "Name": "Lotus Freelance",
+        "Mimetype": "application/vnd.lotus-freelance",
+        "Icon": "",
+        "Extension": ".pre",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-freelance"
+    },
+    {
+        "Name": "Lotus Notes",
+        "Mimetype": "application/vnd.lotus-notes",
+        "Icon": "",
+        "Extension": ".nsf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-notes"
+    },
+    {
+        "Name": "Lotus Organizer",
+        "Mimetype": "application/vnd.lotus-organizer",
+        "Icon": "",
+        "Extension": ".org",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-organizer"
+    },
+    {
+        "Name": "Lotus Screencam",
+        "Mimetype": "application/vnd.lotus-screencam",
+        "Icon": "",
+        "Extension": ".scm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-screencam"
+    },
+    {
+        "Name": "Lotus Wordpro",
+        "Mimetype": "application/vnd.lotus-wordpro",
+        "Icon": "",
+        "Extension": ".lwp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.lotus-wordpro"
+    },
+    {
+        "Name": "MacPorts Port System",
+        "Mimetype": "application/vnd.macports.portpkg",
+        "Icon": "",
+        "Extension": ".portpkg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.macports.portpkg"
+    },
+    {
+        "Name": "Micro CADAM Helix D\u0026D",
+        "Mimetype": "application/vnd.mcd",
+        "Icon": "",
+        "Extension": ".mcd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mcd"
+    },
+    {
+        "Name": "MedCalc",
+        "Mimetype": "application/vnd.medcalcdata",
+        "Icon": "",
+        "Extension": ".mc1",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.medcalcdata"
+    },
+    {
+        "Name": "MediaRemote",
+        "Mimetype": "application/vnd.mediastation.cdkey",
+        "Icon": "",
+        "Extension": ".cdkey",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mediastation.cdkey"
+    },
+    {
+        "Name": "Medical Waveform Encoding Format",
+        "Mimetype": "application/vnd.mfer",
+        "Icon": "",
+        "Extension": ".mwf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.MFER"
+    },
+    {
+        "Name": "Melody Format for Mobile Platform",
+        "Mimetype": "application/vnd.mfmp",
+        "Icon": "",
+        "Extension": ".mfm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mfmp"
+    },
+    {
+        "Name": "Micrografx",
+        "Mimetype": "application/vnd.micrografx.flo",
+        "Icon": "",
+        "Extension": ".flo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.micrografx.flo"
+    },
+    {
+        "Name": "Micrografx iGrafx Professional",
+        "Mimetype": "application/vnd.micrografx.igx",
+        "Icon": "",
+        "Extension": ".igx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.micrografx.igx"
+    },
+    {
+        "Name": "FrameMaker Interchange Format",
+        "Mimetype": "application/vnd.mif",
+        "Icon": "",
+        "Extension": ".mif",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd-mif"
+    },
+    {
+        "Name": "Mobius Management Systems - UniversalArchive",
+        "Mimetype": "application/vnd.mobius.daf",
+        "Icon": "",
+        "Extension": ".daf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.Mobius.DAF"
+    },
+    {
+        "Name": "Mobius Management Systems - Distribution Database",
+        "Mimetype": "application/vnd.mobius.dis",
+        "Icon": "",
+        "Extension": ".dis",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.dis"
+    },
+    {
+        "Name": "Mobius Management Systems - Basket file",
+        "Mimetype": "application/vnd.mobius.mbk",
+        "Icon": "",
+        "Extension": ".mbk",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.mbk"
+    },
+    {
+        "Name": "Mobius Management Systems - Query File",
+        "Mimetype": "application/vnd.mobius.mqy",
+        "Icon": "",
+        "Extension": ".mqy",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.mqy"
+    },
+    {
+        "Name": "Mobius Management Systems - Script Language",
+        "Mimetype": "application/vnd.mobius.msl",
+        "Icon": "",
+        "Extension": ".msl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.msl"
+    },
+    {
+        "Name": "Mobius Management Systems - Policy Definition Language File",
+        "Mimetype": "application/vnd.mobius.plc",
+        "Icon": "",
+        "Extension": ".plc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.plc"
+    },
+    {
+        "Name": "Mobius Management Systems - Topic Index File",
+        "Mimetype": "application/vnd.mobius.txf",
+        "Icon": "",
+        "Extension": ".txf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mobius.txf"
+    },
+    {
+        "Name": "Mophun VM",
+        "Mimetype": "application/vnd.mophun.application",
+        "Icon": "",
+        "Extension": ".mpn",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mophun.application"
+    },
+    {
+        "Name": "Mophun Certificate",
+        "Mimetype": "application/vnd.mophun.certificate",
+        "Icon": "",
+        "Extension": ".mpc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mophun.certificate"
+    },
+    {
+        "Name": "XUL - XML User Interface Language",
+        "Mimetype": "application/vnd.mozilla.xul+xml",
+        "Icon": "",
+        "Extension": ".xul",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mozilla.xul+xml"
+    },
+    {
+        "Name": "Microsoft Artgalry",
+        "Mimetype": "application/vnd.ms-artgalry",
+        "Icon": "",
+        "Extension": ".cil",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-artgalry"
+    },
+    {
+        "Name": "Microsoft Cabinet File",
+        "Mimetype": "application/vnd.ms-cab-compressed",
+        "Icon": "",
+        "Extension": ".cab",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-cab-compressed"
+    },
+    {
+        "Name": "Microsoft Excel",
+        "Mimetype": "application/vnd.ms-excel",
+        "Icon": "",
+        "Extension": ".xls",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel"
+    },
+    {
+        "Name": "Microsoft Excel - Add-In File",
+        "Mimetype": "application/vnd.ms-excel.addin.macroenabled.12",
+        "Icon": "",
+        "Extension": ".xlam",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel.addin.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Excel - Binary Workbook",
+        "Mimetype": "application/vnd.ms-excel.sheet.binary.macroenabled.12",
+        "Icon": "",
+        "Extension": ".xlsb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Excel - Macro-Enabled Workbook",
+        "Mimetype": "application/vnd.ms-excel.sheet.macroenabled.12",
+        "Icon": "",
+        "Extension": ".xlsm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel.sheet.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Excel - Macro-Enabled Template File",
+        "Mimetype": "application/vnd.ms-excel.template.macroenabled.12",
+        "Icon": "",
+        "Extension": ".xltm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-excel.template.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Embedded OpenType",
+        "Mimetype": "application/vnd.ms-fontobject",
+        "Icon": "",
+        "Extension": ".eot",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-fontobject"
+    },
+    {
+        "Name": "Microsoft Html Help File",
+        "Mimetype": "application/vnd.ms-htmlhelp",
+        "Icon": "",
+        "Extension": ".chm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp"
+    },
+    {
+        "Name": "Microsoft Class Server",
+        "Mimetype": "application/vnd.ms-ims",
+        "Icon": "",
+        "Extension": ".ims",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-ims"
+    },
+    {
+        "Name": "Microsoft Learning Resource Module",
+        "Mimetype": "application/vnd.ms-lrm",
+        "Icon": "",
+        "Extension": ".lrm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-lrm"
+    },
+    {
+        "Name": "Microsoft Office System Release Theme",
+        "Mimetype": "application/vnd.ms-officetheme",
+        "Icon": "",
+        "Extension": ".thmx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-officetheme"
+    },
+    {
+        "Name": "Microsoft Trust UI Provider - Security Catalog",
+        "Mimetype": "application/vnd.ms-pki.seccat",
+        "Icon": "",
+        "Extension": ".cat",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-pki.seccat"
+    },
+    {
+        "Name": "Microsoft Trust UI Provider - Certificate Trust Link",
+        "Mimetype": "application/vnd.ms-pki.stl",
+        "Icon": "",
+        "Extension": ".stl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-pki.stl"
+    },
+    {
+        "Name": "Microsoft PowerPoint",
+        "Mimetype": "application/vnd.ms-powerpoint",
+        "Icon": "",
+        "Extension": ".ppt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint"
+    },
+    {
+        "Name": "Microsoft PowerPoint - Add-in file",
+        "Mimetype": "application/vnd.ms-powerpoint.addin.macroenabled.12",
+        "Icon": "",
+        "Extension": ".ppam",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.addin.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft PowerPoint - Macro-Enabled Presentation File",
+        "Mimetype": "application/vnd.ms-powerpoint.presentation.macroenabled.12",
+        "Icon": "",
+        "Extension": ".pptm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft PowerPoint - Macro-Enabled Open XML Slide",
+        "Mimetype": "application/vnd.ms-powerpoint.slide.macroenabled.12",
+        "Icon": "",
+        "Extension": ".sldm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slide.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft PowerPoint - Macro-Enabled Slide Show File",
+        "Mimetype": "application/vnd.ms-powerpoint.slideshow.macroenabled.12",
+        "Icon": "",
+        "Extension": ".ppsm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft PowerPoint - Macro-Enabled Template File",
+        "Mimetype": "application/vnd.ms-powerpoint.template.macroenabled.12",
+        "Icon": "",
+        "Extension": ".potm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-powerpoint.template.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Project",
+        "Mimetype": "application/vnd.ms-project",
+        "Icon": "",
+        "Extension": ".mpp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-project"
+    },
+    {
+        "Name": "Microsoft Word - Macro-Enabled Document",
+        "Mimetype": "application/vnd.ms-word.document.macroenabled.12",
+        "Icon": "",
+        "Extension": ".docm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-word.document.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Word - Macro-Enabled Template",
+        "Mimetype": "application/vnd.ms-word.template.macroenabled.12",
+        "Icon": "",
+        "Extension": ".dotm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-word.template.macroEnabled.12"
+    },
+    {
+        "Name": "Microsoft Works",
+        "Mimetype": "application/vnd.ms-works",
+        "Icon": "",
+        "Extension": ".wps",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-works"
+    },
+    {
+        "Name": "Microsoft Windows Media Player Playlist",
+        "Mimetype": "application/vnd.ms-wpl",
+        "Icon": "",
+        "Extension": ".wpl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-wpl"
+    },
+    {
+        "Name": "Microsoft XML Paper Specification",
+        "Mimetype": "application/vnd.ms-xpsdocument",
+        "Icon": "",
+        "Extension": ".xps",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ms-xpsdocument"
+    },
+    {
+        "Name": "3GPP MSEQ File",
+        "Mimetype": "application/vnd.mseq",
+        "Icon": "",
+        "Extension": ".mseq",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.mseq"
+    },
+    {
+        "Name": "MUsical Score Interpreted Code Invented for the ASCII designation of Notation",
+        "Mimetype": "application/vnd.musician",
+        "Icon": "",
+        "Extension": ".mus",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.musician"
+    },
+    {
+        "Name": "Muvee Automatic Video Editing",
+        "Mimetype": "application/vnd.muvee.style",
+        "Icon": "",
+        "Extension": ".msty",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.muvee.style"
+    },
+    {
+        "Name": "neuroLanguage",
+        "Mimetype": "application/vnd.neurolanguage.nlu",
+        "Icon": "",
+        "Extension": ".nlu",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.neurolanguage.nlu"
+    },
+    {
+        "Name": "NobleNet Directory",
+        "Mimetype": "application/vnd.noblenet-directory",
+        "Icon": "",
+        "Extension": ".nnd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.noblenet-directory"
+    },
+    {
+        "Name": "NobleNet Sealer",
+        "Mimetype": "application/vnd.noblenet-sealer",
+        "Icon": "",
+        "Extension": ".nns",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.noblenet-sealer"
+    },
+    {
+        "Name": "NobleNet Web",
+        "Mimetype": "application/vnd.noblenet-web",
+        "Icon": "",
+        "Extension": ".nnw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.noblenet-web"
+    },
+    {
+        "Name": "N-Gage Game Data",
+        "Mimetype": "application/vnd.nokia.n-gage.data",
+        "Icon": "",
+        "Extension": ".ngdat",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.data"
+    },
+    {
+        "Name": "N-Gage Game Installer",
+        "Mimetype": "application/vnd.nokia.n-gage.symbian.install",
+        "Icon": "",
+        "Extension": ".n-gage",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install"
+    },
+    {
+        "Name": "Nokia Radio Application - Preset",
+        "Mimetype": "application/vnd.nokia.radio-preset",
+        "Icon": "",
+        "Extension": ".rpst",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-preset"
+    },
+    {
+        "Name": "Nokia Radio Application - Preset",
+        "Mimetype": "application/vnd.nokia.radio-presets",
+        "Icon": "",
+        "Extension": ".rpss",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.nokia.radio-presets"
+    },
+    {
+        "Name": "Novadigm's RADIA and EDM products",
+        "Mimetype": "application/vnd.novadigm.edm",
+        "Icon": "",
+        "Extension": ".edm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDM"
+    },
+    {
+        "Name": "Novadigm's RADIA and EDM products",
+        "Mimetype": "application/vnd.novadigm.edx",
+        "Icon": "",
+        "Extension": ".edx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.novadigm.EDX"
+    },
+    {
+        "Name": "Novadigm's RADIA and EDM products",
+        "Mimetype": "application/vnd.novadigm.ext",
+        "Icon": "",
+        "Extension": ".ext",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.novadigm.EXT"
+    },
+    {
+        "Name": "OpenDocument Chart",
+        "Mimetype": "application/vnd.oasis.opendocument.chart",
+        "Icon": "",
+        "Extension": ".odc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart"
+    },
+    {
+        "Name": "OpenDocument Chart Template",
+        "Mimetype": "application/vnd.oasis.opendocument.chart-template",
+        "Icon": "",
+        "Extension": ".otc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.chart-template"
+    },
+    {
+        "Name": "OpenDocument Database",
+        "Mimetype": "application/vnd.oasis.opendocument.database",
+        "Icon": "",
+        "Extension": ".odb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.database"
+    },
+    {
+        "Name": "OpenDocument Formula",
+        "Mimetype": "application/vnd.oasis.opendocument.formula",
+        "Icon": "",
+        "Extension": ".odf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula"
+    },
+    {
+        "Name": "OpenDocument Formula Template",
+        "Mimetype": "application/vnd.oasis.opendocument.formula-template",
+        "Icon": "",
+        "Extension": ".odft",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.formula-template"
+    },
+    {
+        "Name": "OpenDocument Graphics",
+        "Mimetype": "application/vnd.oasis.opendocument.graphics",
+        "Icon": "",
+        "Extension": ".odg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics"
+    },
+    {
+        "Name": "OpenDocument Graphics Template",
+        "Mimetype": "application/vnd.oasis.opendocument.graphics-template",
+        "Icon": "",
+        "Extension": ".otg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.graphics-template"
+    },
+    {
+        "Name": "OpenDocument Image",
+        "Mimetype": "application/vnd.oasis.opendocument.image",
+        "Icon": "",
+        "Extension": ".odi",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image"
+    },
+    {
+        "Name": "OpenDocument Image Template",
+        "Mimetype": "application/vnd.oasis.opendocument.image-template",
+        "Icon": "",
+        "Extension": ".oti",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.image-template"
+    },
+    {
+        "Name": "OpenDocument Presentation",
+        "Mimetype": "application/vnd.oasis.opendocument.presentation",
+        "Icon": "",
+        "Extension": ".odp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation"
+    },
+    {
+        "Name": "OpenDocument Presentation Template",
+        "Mimetype": "application/vnd.oasis.opendocument.presentation-template",
+        "Icon": "",
+        "Extension": ".otp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.presentation-template"
+    },
+    {
+        "Name": "OpenDocument Spreadsheet",
+        "Mimetype": "application/vnd.oasis.opendocument.spreadsheet",
+        "Icon": "",
+        "Extension": ".ods",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet"
+    },
+    {
+        "Name": "OpenDocument Spreadsheet Template",
+        "Mimetype": "application/vnd.oasis.opendocument.spreadsheet-template",
+        "Icon": "",
+        "Extension": ".ots",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.spreadsheet-template"
+    },
+    {
+        "Name": "OpenDocument Text",
+        "Mimetype": "application/vnd.oasis.opendocument.text",
+        "Icon": "",
+        "Extension": ".odt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text"
+    },
+    {
+        "Name": "OpenDocument Text Master",
+        "Mimetype": "application/vnd.oasis.opendocument.text-master",
+        "Icon": "",
+        "Extension": ".odm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-master"
+    },
+    {
+        "Name": "OpenDocument Text Template",
+        "Mimetype": "application/vnd.oasis.opendocument.text-template",
+        "Icon": "",
+        "Extension": ".ott",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-template"
+    },
+    {
+        "Name": "Open Document Text Web",
+        "Mimetype": "application/vnd.oasis.opendocument.text-web",
+        "Icon": "",
+        "Extension": ".oth",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oasis.opendocument.text-web"
+    },
+    {
+        "Name": "Sugar Linux Application Bundle",
+        "Mimetype": "application/vnd.olpc-sugar",
+        "Icon": "",
+        "Extension": ".xo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.olpc-sugar"
+    },
+    {
+        "Name": "OMA Download Agents",
+        "Mimetype": "application/vnd.oma.dd2+xml",
+        "Icon": "",
+        "Extension": ".dd2",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.oma.dd2+xml"
+    },
+    {
+        "Name": "Open Office Extension",
+        "Mimetype": "application/vnd.openofficeorg.extension",
+        "Icon": "",
+        "Extension": ".oxt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openofficeorg.extension"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Presentation",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "Icon": "",
+        "Extension": ".pptx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Presentation (Slide)",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.presentationml.slide",
+        "Icon": "",
+        "Extension": ".sldx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slide"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Presentation (Slideshow)",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+        "Icon": "",
+        "Extension": ".ppsx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Presentation Template",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.presentationml.template",
+        "Icon": "",
+        "Extension": ".potx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.presentationml.template"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Spreadsheet",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "Icon": "",
+        "Extension": ".xlsx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Spreadsheet Template",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.template",
+        "Icon": "",
+        "Extension": ".xltx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Word Document",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "Icon": "",
+        "Extension": ".docx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+        "Name": "Microsoft Office - OOXML - Word Document Template",
+        "Mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.template",
+        "Icon": "",
+        "Extension": ".dotx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+    },
+    {
+        "Name": "MapGuide DBXML",
+        "Mimetype": "application/vnd.osgeo.mapguide.package",
+        "Icon": "",
+        "Extension": ".mgp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.osgeo.mapguide.package"
+    },
+    {
+        "Name": "OSGi Deployment Package",
+        "Mimetype": "application/vnd.osgi.dp",
+        "Icon": "",
+        "Extension": ".dp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.osgi.dp"
+    },
+    {
+        "Name": "PalmOS Data",
+        "Mimetype": "application/vnd.palm",
+        "Icon": "",
+        "Extension": ".pdb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.palm"
+    },
+    {
+        "Name": "PawaaFILE",
+        "Mimetype": "application/vnd.pawaafile",
+        "Icon": "",
+        "Extension": ".paw",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pawaafile"
+    },
+    {
+        "Name": "Proprietary P\u0026G Standard Reporting System",
+        "Mimetype": "application/vnd.pg.format",
+        "Icon": "",
+        "Extension": ".str",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pg.format"
+    },
+    {
+        "Name": "Proprietary P\u0026G Standard Reporting System",
+        "Mimetype": "application/vnd.pg.osasli",
+        "Icon": "",
+        "Extension": ".ei6",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pg.osasli"
+    },
+    {
+        "Name": "Pcsel eFIF File",
+        "Mimetype": "application/vnd.picsel",
+        "Icon": "",
+        "Extension": ".efif",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.picsel"
+    },
+    {
+        "Name": "Qualcomm's Plaza Mobile Internet",
+        "Mimetype": "application/vnd.pmi.widget",
+        "Icon": "",
+        "Extension": ".wg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pmi.widget"
+    },
+    {
+        "Name": "PocketLearn Viewers",
+        "Mimetype": "application/vnd.pocketlearn",
+        "Icon": "",
+        "Extension": ".plf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pocketlearn"
+    },
+    {
+        "Name": "PowerBuilder",
+        "Mimetype": "application/vnd.powerbuilder6",
+        "Icon": "",
+        "Extension": ".pbd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.powerbuilder6"
+    },
+    {
+        "Name": "Preview Systems ZipLock/VBox",
+        "Mimetype": "application/vnd.previewsystems.box",
+        "Icon": "",
+        "Extension": ".box",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.previewsystems.box"
+    },
+    {
+        "Name": "EFI Proteus",
+        "Mimetype": "application/vnd.proteus.magazine",
+        "Icon": "",
+        "Extension": ".mgz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.proteus.magazine"
+    },
+    {
+        "Name": "PubliShare Objects",
+        "Mimetype": "application/vnd.publishare-delta-tree",
+        "Icon": "",
+        "Extension": ".qps",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.publishare-delta-tree"
+    },
+    {
+        "Name": "Princeton Video Image",
+        "Mimetype": "application/vnd.pvi.ptid1",
+        "Icon": "",
+        "Extension": ".ptid",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.pvi.ptid1"
+    },
+    {
+        "Name": "QuarkXpress",
+        "Mimetype": "application/vnd.quark.quarkxpress",
+        "Icon": "",
+        "Extension": ".qxd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.Quark.QuarkXPress"
+    },
+    {
+        "Name": "RealVNC",
+        "Mimetype": "application/vnd.realvnc.bed",
+        "Icon": "",
+        "Extension": ".bed",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.realvnc.bed"
+    },
+    {
+        "Name": "Recordare Applications",
+        "Mimetype": "application/vnd.recordare.musicxml",
+        "Icon": "",
+        "Extension": ".mxl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml"
+    },
+    {
+        "Name": "Recordare Applications",
+        "Mimetype": "application/vnd.recordare.musicxml+xml",
+        "Icon": "",
+        "Extension": ".musicxml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.recordare.musicxml+xml"
+    },
+    {
+        "Name": "CryptoNote",
+        "Mimetype": "application/vnd.rig.cryptonote",
+        "Icon": "",
+        "Extension": ".cryptonote",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.rig.cryptonote"
+    },
+    {
+        "Name": "Blackberry COD File",
+        "Mimetype": "application/vnd.rim.cod",
+        "Icon": "",
+        "Extension": ".cod",
+        "Info": ""
+    },
+    {
+        "Name": "RealMedia",
+        "Mimetype": "application/vnd.rn-realmedia",
+        "Icon": "",
+        "Extension": ".rm",
+        "Info": ""
+    },
+    {
+        "Name": "ROUTE 66 Location Based Services",
+        "Mimetype": "application/vnd.route66.link66+xml",
+        "Icon": "",
+        "Extension": ".link66",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.route66.link66+xml"
+    },
+    {
+        "Name": "SailingTracker",
+        "Mimetype": "application/vnd.sailingtracker.track",
+        "Icon": "",
+        "Extension": ".st",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.sailingtracker.track"
+    },
+    {
+        "Name": "SeeMail",
+        "Mimetype": "application/vnd.seemail",
+        "Icon": "",
+        "Extension": ".see",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.seemail"
+    },
+    {
+        "Name": "Secured eMail",
+        "Mimetype": "application/vnd.sema",
+        "Icon": "",
+        "Extension": ".sema",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.sema"
+    },
+    {
+        "Name": "Secured eMail",
+        "Mimetype": "application/vnd.semd",
+        "Icon": "",
+        "Extension": ".semd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.semd"
+    },
+    {
+        "Name": "Secured eMail",
+        "Mimetype": "application/vnd.semf",
+        "Icon": "",
+        "Extension": ".semf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.semf"
+    },
+    {
+        "Name": "Shana Informed Filler",
+        "Mimetype": "application/vnd.shana.informed.formdata",
+        "Icon": "",
+        "Extension": ".ifm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formdata"
+    },
+    {
+        "Name": "Shana Informed Filler",
+        "Mimetype": "application/vnd.shana.informed.formtemplate",
+        "Icon": "",
+        "Extension": ".itp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.shana.informed.formtemplate"
+    },
+    {
+        "Name": "Shana Informed Filler",
+        "Mimetype": "application/vnd.shana.informed.interchange",
+        "Icon": "",
+        "Extension": ".iif",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.shana.informed.interchange"
+    },
+    {
+        "Name": "Shana Informed Filler",
+        "Mimetype": "application/vnd.shana.informed.package",
+        "Icon": "",
+        "Extension": ".ipk",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.shana.informed.package"
+    },
+    {
+        "Name": "SimTech MindMapper",
+        "Mimetype": "application/vnd.simtech-mindmapper",
+        "Icon": "",
+        "Extension": ".twd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.SimTech-MindMapper"
+    },
+    {
+        "Name": "SMAF File",
+        "Mimetype": "application/vnd.smaf",
+        "Icon": "",
+        "Extension": ".mmf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.smaf"
+    },
+    {
+        "Name": "SMART Technologies Apps",
+        "Mimetype": "application/vnd.smart.teacher",
+        "Icon": "",
+        "Extension": ".teacher",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.smart.teacher"
+    },
+    {
+        "Name": "SudokuMagic",
+        "Mimetype": "application/vnd.solent.sdkm+xml",
+        "Icon": "",
+        "Extension": ".sdkm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.solent.sdkm+xml"
+    },
+    {
+        "Name": "TIBCO Spotfire",
+        "Mimetype": "application/vnd.spotfire.dxp",
+        "Icon": "",
+        "Extension": ".dxp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.spotfire.dxp"
+    },
+    {
+        "Name": "TIBCO Spotfire",
+        "Mimetype": "application/vnd.spotfire.sfs",
+        "Icon": "",
+        "Extension": ".sfs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.spotfire.sfs"
+    },
+    {
+        "Name": "StarOffice - Calc",
+        "Mimetype": "application/vnd.stardivision.calc",
+        "Icon": "",
+        "Extension": ".sdc",
+        "Info": ""
+    },
+    {
+        "Name": "StarOffice - Draw",
+        "Mimetype": "application/vnd.stardivision.draw",
+        "Icon": "",
+        "Extension": ".sda",
+        "Info": ""
+    },
+    {
+        "Name": "StarOffice - Impress",
+        "Mimetype": "application/vnd.stardivision.impress",
+        "Icon": "",
+        "Extension": ".sdd",
+        "Info": ""
+    },
+    {
+        "Name": "StarOffice - Math",
+        "Mimetype": "application/vnd.stardivision.math",
+        "Icon": "",
+        "Extension": ".smf",
+        "Info": ""
+    },
+    {
+        "Name": "StarOffice - Writer",
+        "Mimetype": "application/vnd.stardivision.writer",
+        "Icon": "",
+        "Extension": ".sdw",
+        "Info": ""
+    },
+    {
+        "Name": "StarOffice - Writer (Global)",
+        "Mimetype": "application/vnd.stardivision.writer-global",
+        "Icon": "",
+        "Extension": ".sgl",
+        "Info": ""
+    },
+    {
+        "Name": "StepMania",
+        "Mimetype": "application/vnd.stepmania.stepchart",
+        "Icon": "",
+        "Extension": ".sm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.stepmania.stepchart"
+    },
+    {
+        "Name": "OpenOffice - Calc (Spreadsheet)",
+        "Mimetype": "application/vnd.sun.xml.calc",
+        "Icon": "",
+        "Extension": ".sxc",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Calc Template (Spreadsheet)",
+        "Mimetype": "application/vnd.sun.xml.calc.template",
+        "Icon": "",
+        "Extension": ".stc",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Draw (Graphics)",
+        "Mimetype": "application/vnd.sun.xml.draw",
+        "Icon": "",
+        "Extension": ".sxd",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Draw Template (Graphics)",
+        "Mimetype": "application/vnd.sun.xml.draw.template",
+        "Icon": "",
+        "Extension": ".std",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Impress (Presentation)",
+        "Mimetype": "application/vnd.sun.xml.impress",
+        "Icon": "",
+        "Extension": ".sxi",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Impress Template (Presentation)",
+        "Mimetype": "application/vnd.sun.xml.impress.template",
+        "Icon": "",
+        "Extension": ".sti",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Math (Formula)",
+        "Mimetype": "application/vnd.sun.xml.math",
+        "Icon": "",
+        "Extension": ".sxm",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Writer (Text - HTML)",
+        "Mimetype": "application/vnd.sun.xml.writer",
+        "Icon": "",
+        "Extension": ".sxw",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Writer (Text - HTML)",
+        "Mimetype": "application/vnd.sun.xml.writer.global",
+        "Icon": "",
+        "Extension": ".sxg",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "OpenOffice - Writer Template (Text - HTML)",
+        "Mimetype": "application/vnd.sun.xml.writer.template",
+        "Icon": "",
+        "Extension": ".stw",
+        "Info": "https://en.wikipedia.org/wiki/OpenOffice.org_XML"
+    },
+    {
+        "Name": "ScheduleUs",
+        "Mimetype": "application/vnd.sus-calendar",
+        "Icon": "",
+        "Extension": ".sus",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.sus-calendar"
+    },
+    {
+        "Name": "SourceView Document",
+        "Mimetype": "application/vnd.svd",
+        "Icon": "",
+        "Extension": ".svd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.svd"
+    },
+    {
+        "Name": "Symbian Install Package",
+        "Mimetype": "application/vnd.symbian.install",
+        "Icon": "",
+        "Extension": ".sis",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.nokia.n-gage.symbian.install"
+    },
+    {
+        "Name": "SyncML",
+        "Mimetype": "application/vnd.syncml+xml",
+        "Icon": "",
+        "Extension": ".xsm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.syncml+xml"
+    },
+    {
+        "Name": "SyncML - Device Management",
+        "Mimetype": "application/vnd.syncml.dm+wbxml",
+        "Icon": "",
+        "Extension": ".bdm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.syncml.dm+wbxml"
+    },
+    {
+        "Name": "SyncML - Device Management",
+        "Mimetype": "application/vnd.syncml.dm+xml",
+        "Icon": "",
+        "Extension": ".xdm",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.syncml.dm+xml"
+    },
+    {
+        "Name": "Tao Intent",
+        "Mimetype": "application/vnd.tao.intent-module-archive",
+        "Icon": "",
+        "Extension": ".tao",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.tao.intent-module-archive"
+    },
+    {
+        "Name": "MobileTV",
+        "Mimetype": "application/vnd.tmobile-livetv",
+        "Icon": "",
+        "Extension": ".tmo",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.tmobile-livetv"
+    },
+    {
+        "Name": "TRI Systems Config",
+        "Mimetype": "application/vnd.trid.tpt",
+        "Icon": "",
+        "Extension": ".tpt",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.trid.tpt"
+    },
+    {
+        "Name": "Triscape Map Explorer",
+        "Mimetype": "application/vnd.triscape.mxs",
+        "Icon": "",
+        "Extension": ".mxs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.triscape.mxs"
+    },
+    {
+        "Name": "True BASIC",
+        "Mimetype": "application/vnd.trueapp",
+        "Icon": "",
+        "Extension": ".tra",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.trueapp"
+    },
+    {
+        "Name": "Universal Forms Description Language",
+        "Mimetype": "application/vnd.ufdl",
+        "Icon": "",
+        "Extension": ".ufd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.ufdl"
+    },
+    {
+        "Name": "User Interface Quartz - Theme (Symbian)",
+        "Mimetype": "application/vnd.uiq.theme",
+        "Icon": "",
+        "Extension": ".utz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.uiq.theme"
+    },
+    {
+        "Name": "UMAJIN",
+        "Mimetype": "application/vnd.umajin",
+        "Icon": "",
+        "Extension": ".umj",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.umajin"
+    },
+    {
+        "Name": "Unity 3d",
+        "Mimetype": "application/vnd.unity",
+        "Icon": "",
+        "Extension": ".unityweb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.unity"
+    },
+    {
+        "Name": "Unique Object Markup Language",
+        "Mimetype": "application/vnd.uoml+xml",
+        "Icon": "",
+        "Extension": ".uoml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.uoml+xml"
+    },
+    {
+        "Name": "VirtualCatalog",
+        "Mimetype": "application/vnd.vcx",
+        "Icon": "",
+        "Extension": ".vcx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.vcx"
+    },
+    {
+        "Name": "Microsoft Visio",
+        "Mimetype": "application/vnd.visio",
+        "Icon": "",
+        "Extension": ".vsd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.visio"
+    },
+    {
+        "Name": "Microsoft Visio 2013",
+        "Mimetype": "application/vnd.visio2013",
+        "Icon": "",
+        "Extension": ".vsdx",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.visio"
+    },
+    {
+        "Name": "Visionary",
+        "Mimetype": "application/vnd.visionary",
+        "Icon": "",
+        "Extension": ".vis",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.visionary"
+    },
+    {
+        "Name": "Viewport+",
+        "Mimetype": "application/vnd.vsf",
+        "Icon": "",
+        "Extension": ".vsf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.vsf"
+    },
+    {
+        "Name": "WAP Binary XML (WBXML)",
+        "Mimetype": "application/vnd.wap.wbxml",
+        "Icon": "",
+        "Extension": ".wbxml",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wap-wbxml"
+    },
+    {
+        "Name": "Compiled Wireless Markup Language (WMLC)",
+        "Mimetype": "application/vnd.wap.wmlc",
+        "Icon": "",
+        "Extension": ".wmlc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd-wap-wmlc"
+    },
+    {
+        "Name": "WMLScript",
+        "Mimetype": "application/vnd.wap.wmlscriptc",
+        "Icon": "",
+        "Extension": ".wmlsc",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wap.wmlscriptc"
+    },
+    {
+        "Name": "WebTurbo",
+        "Mimetype": "application/vnd.webturbo",
+        "Icon": "",
+        "Extension": ".wtb",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.webturbo"
+    },
+    {
+        "Name": "Mathematica Notebook Player",
+        "Mimetype": "application/vnd.wolfram.player",
+        "Icon": "",
+        "Extension": ".nbp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wolfram.player"
+    },
+    {
+        "Name": "Wordperfect",
+        "Mimetype": "application/vnd.wordperfect",
+        "Icon": "",
+        "Extension": ".wpd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wordperfect"
+    },
+    {
+        "Name": "SundaHus WQ",
+        "Mimetype": "application/vnd.wqd",
+        "Icon": "",
+        "Extension": ".wqd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wqd"
+    },
+    {
+        "Name": "Worldtalk",
+        "Mimetype": "application/vnd.wt.stf",
+        "Icon": "",
+        "Extension": ".stf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.wt.stf"
+    },
+    {
+        "Name": "CorelXARA",
+        "Mimetype": "application/vnd.xara",
+        "Icon": "",
+        "Extension": ".xar",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.xara"
+    },
+    {
+        "Name": "Extensible Forms Description Language",
+        "Mimetype": "application/vnd.xfdl",
+        "Icon": "",
+        "Extension": ".xfdl",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.xfdl"
+    },
+    {
+        "Name": "HV Voice Dictionary",
+        "Mimetype": "application/vnd.yamaha.hv-dic",
+        "Icon": "",
+        "Extension": ".hvd",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-dic"
+    },
+    {
+        "Name": "HV Script",
+        "Mimetype": "application/vnd.yamaha.hv-script",
+        "Icon": "",
+        "Extension": ".hvs",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-script"
+    },
+    {
+        "Name": "HV Voice Parameter",
+        "Mimetype": "application/vnd.yamaha.hv-voice",
+        "Icon": "",
+        "Extension": ".hvp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-voice"
+    },
+    {
+        "Name": "Open Score Format",
+        "Mimetype": "application/vnd.yamaha.openscoreformat",
+        "Icon": "",
+        "Extension": ".osf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat"
+    },
+    {
+        "Name": "OSFPVG",
+        "Mimetype": "application/vnd.yamaha.openscoreformat.osfpvg+xml",
+        "Icon": "",
+        "Extension": ".osfpvg",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.openscoreformat.osfpvg+xml"
+    },
+    {
+        "Name": "SMAF Audio",
+        "Mimetype": "application/vnd.yamaha.smaf-audio",
+        "Icon": "",
+        "Extension": ".saf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-audio"
+    },
+    {
+        "Name": "SMAF Phrase",
+        "Mimetype": "application/vnd.yamaha.smaf-phrase",
+        "Icon": "",
+        "Extension": ".spf",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yamaha.smaf-phrase"
+    },
+    {
+        "Name": "CustomMenu",
+        "Mimetype": "application/vnd.yellowriver-custom-menu",
+        "Icon": "",
+        "Extension": ".cmp",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.yellowriver-custom-menu"
+    },
+    {
+        "Name": "Z.U.L. Geometry",
+        "Mimetype": "application/vnd.zul",
+        "Icon": "",
+        "Extension": ".zir",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.zul"
+    },
+    {
+        "Name": "Zzazz Deck",
+        "Mimetype": "application/vnd.zzazz.deck+xml",
+        "Icon": "",
+        "Extension": ".zaz",
+        "Info": "http://www.iana.org/assignments/media-types/application/vnd.zzazz.deck+xml"
+    },
+    {
+        "Name": "VoiceXML",
+        "Mimetype": "application/voicexml+xml",
+        "Icon": "",
+        "Extension": ".vxml",
+        "Info": "http://tools.ietf.org/html/rfc4267"
+    },
+    {
+        "Name": "Widget Packaging and XML Configuration",
+        "Mimetype": "application/widget",
+        "Icon": "",
+        "Extension": ".wgt",
+        "Info": "http://www.w3.org/TR/widgets/#media-type-registration-for-applicationw"
+    },
+    {
+        "Name": "WinHelp",
+        "Mimetype": "application/winhlp",
+        "Icon": "",
+        "Extension": ".hlp",
+        "Info": "https://en.wikipedia.org/wiki/WinHelp"
+    },
+    {
+        "Name": "WSDL - Web Services Description Language",
+        "Mimetype": "application/wsdl+xml",
+        "Icon": "",
+        "Extension": ".wsdl",
+        "Info": "http://www.iana.org/assignments/media-types/application/wsdl+xml"
+    },
+    {
+        "Name": "Web Services Policy",
+        "Mimetype": "application/wspolicy+xml",
+        "Icon": "",
+        "Extension": ".wspolicy",
+        "Info": "http://www.w3.org/Submission/WS-Policy/"
+    },
+    {
+        "Name": "7-Zip",
+        "Mimetype": "application/x-7z-compressed",
+        "Icon": "",
+        "Extension": ".7z",
+        "Info": "https://en.wikipedia.org/wiki/7-Zip"
+    },
+    {
+        "Name": "AbiWord",
+        "Mimetype": "application/x-abiword",
+        "Icon": "",
+        "Extension": ".abw",
+        "Info": "https://en.wikipedia.org/wiki/AbiWord"
+    },
+    {
+        "Name": "Ace Archive",
+        "Mimetype": "application/x-ace-compressed",
+        "Icon": "",
+        "Extension": ".ace",
+        "Info": "https://en.wikipedia.org/wiki/ACE_%28file_format%29"
+    },
+    {
+        "Name": "Adobe (Macropedia) Authorware - Binary File",
+        "Mimetype": "application/x-authorware-bin",
+        "Icon": "",
+        "Extension": ".aab",
+        "Info": "https://en.wikipedia.org/wiki/Macromedia_Authorware"
+    },
+    {
+        "Name": "Adobe (Macropedia) Authorware - Map",
+        "Mimetype": "application/x-authorware-map",
+        "Icon": "",
+        "Extension": ".aam",
+        "Info": "https://en.wikipedia.org/wiki/Macromedia_Authorware"
+    },
+    {
+        "Name": "Adobe (Macropedia) Authorware - Segment File",
+        "Mimetype": "application/x-authorware-seg",
+        "Icon": "",
+        "Extension": ".aas",
+        "Info": "https://en.wikipedia.org/wiki/Macromedia_Authorware"
+    },
+    {
+        "Name": "Binary CPIO Archive",
+        "Mimetype": "application/x-bcpio",
+        "Icon": "",
+        "Extension": ".bcpio",
+        "Info": "https://en.wikipedia.org/wiki/Cpio"
+    },
+    {
+        "Name": "BitTorrent",
+        "Mimetype": "application/x-bittorrent",
+        "Icon": "",
+        "Extension": ".torrent",
+        "Info": "https://en.wikipedia.org/wiki/BitTorrent_%28protocol%29"
+    },
+    {
+        "Name": "Bzip Archive",
+        "Mimetype": "application/x-bzip",
+        "Icon": "",
+        "Extension": ".bz",
+        "Info": "https://en.wikipedia.org/wiki/Bzip"
+    },
+    {
+        "Name": "Bzip2 Archive",
+        "Mimetype": "application/x-bzip2",
+        "Icon": "",
+        "Extension": ".bz2",
+        "Info": "https://en.wikipedia.org/wiki/Bzip"
+    },
+    {
+        "Name": "Video CD",
+        "Mimetype": "application/x-cdlink",
+        "Icon": "",
+        "Extension": ".vcd",
+        "Info": "https://en.wikipedia.org/wiki/Video_CD"
+    },
+    {
+        "Name": "pIRCh",
+        "Mimetype": "application/x-chat",
+        "Icon": "",
+        "Extension": ".chat",
+        "Info": "https://en.wikipedia.org/wiki/PIRCH"
+    },
+    {
+        "Name": "Portable Game Notation (Chess Games)",
+        "Mimetype": "application/x-chess-pgn",
+        "Icon": "",
+        "Extension": ".pgn",
+        "Info": "https://en.wikipedia.org/wiki/Portable_Game_Notation"
+    },
+    {
+        "Name": "CPIO Archive",
+        "Mimetype": "application/x-cpio",
+        "Icon": "",
+        "Extension": ".cpio",
+        "Info": "https://en.wikipedia.org/wiki/Cpio"
+    },
+    {
+        "Name": "C Shell Script",
+        "Mimetype": "application/x-csh",
+        "Icon": "",
+        "Extension": ".csh",
+        "Info": "https://en.wikipedia.org/wiki/C_shell"
+    },
+    {
+        "Name": "Debian Package",
+        "Mimetype": "application/x-debian-package",
+        "Icon": "",
+        "Extension": ".deb",
+        "Info": "https://en.wikipedia.org/wiki/Debian_package"
+    },
+    {
+        "Name": "Adobe Shockwave Player",
+        "Mimetype": "application/x-director",
+        "Icon": "",
+        "Extension": ".dir",
+        "Info": "https://en.wikipedia.org/wiki/Adobe_Shockwave_Player"
+    },
+    {
+        "Name": "Doom Video Game",
+        "Mimetype": "application/x-doom",
+        "Icon": "",
+        "Extension": ".wad",
+        "Info": "https://en.wikipedia.org/wiki/Doom_wad"
+    },
+    {
+        "Name": "Navigation Control file for XML (for ePub)",
+        "Mimetype": "application/x-dtbncx+xml",
+        "Icon": "",
+        "Extension": ".ncx",
+        "Info": "https://en.wikipedia.org/wiki/EPUB"
+    },
+    {
+        "Name": "Digital Talking Book",
+        "Mimetype": "application/x-dtbook+xml",
+        "Icon": "",
+        "Extension": ".dtb",
+        "Info": "https://en.wikipedia.org/wiki/EPUB"
+    },
+    {
+        "Name": "Digital Talking Book - Resource File",
+        "Mimetype": "application/x-dtbresource+xml",
+        "Icon": "",
+        "Extension": ".res",
+        "Info": "http://www.daisy.org/z3986/2005/Z3986-2005.html"
+    },
+    {
+        "Name": "Device Independent File Format (DVI)",
+        "Mimetype": "application/x-dvi",
+        "Icon": "",
+        "Extension": ".dvi",
+        "Info": "https://en.wikipedia.org/wiki/Device_independent_file_format"
+    },
+    {
+        "Name": "Glyph Bitmap Distribution Format",
+        "Mimetype": "application/x-font-bdf",
+        "Icon": "",
+        "Extension": ".bdf",
+        "Info": "https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format"
+    },
+    {
+        "Name": "Ghostscript Font",
+        "Mimetype": "application/x-font-ghostscript",
+        "Icon": "",
+        "Extension": ".gsf",
+        "Info": "https://en.wikipedia.org/wiki/Ghostscript"
+    },
+    {
+        "Name": "PSF Fonts",
+        "Mimetype": "application/x-font-linux-psf",
+        "Icon": "",
+        "Extension": ".psf",
+        "Info": "http://www.win.tue.nl/~aeb/linux/kbd/font-formats-1.html"
+    },
+    {
+        "Name": "OpenType Font File",
+        "Mimetype": "application/x-font-otf",
+        "Icon": "",
+        "Extension": ".otf",
+        "Info": "http://www.microsoft.com/typography/otspec/otff.htm"
+    },
+    {
+        "Name": "Portable Compiled Format",
+        "Mimetype": "application/x-font-pcf",
+        "Icon": "",
+        "Extension": ".pcf",
+        "Info": "https://en.wikipedia.org/wiki/Portable_Compiled_Format"
+    },
+    {
+        "Name": "Server Normal Format",
+        "Mimetype": "application/x-font-snf",
+        "Icon": "",
+        "Extension": ".snf",
+        "Info": "https://en.wikipedia.org/wiki/Server_Normal_Format"
+    },
+    {
+        "Name": "TrueType Font",
+        "Mimetype": "application/x-font-ttf",
+        "Icon": "",
+        "Extension": ".ttf",
+        "Info": "https://en.wikipedia.org/wiki/TrueType"
+    },
+    {
+        "Name": "PostScript Fonts",
+        "Mimetype": "application/x-font-type1",
+        "Icon": "",
+        "Extension": ".pfa",
+        "Info": "https://en.wikipedia.org/wiki/PostScript_fonts"
+    },
+    {
+        "Name": "Web Open Font Format",
+        "Mimetype": "application/x-font-woff",
+        "Icon": "",
+        "Extension": ".woff",
+        "Info": "https://en.wikipedia.org/wiki/Woff"
+    },
+    {
+        "Name": "FutureSplash Animator",
+        "Mimetype": "application/x-futuresplash",
+        "Icon": "",
+        "Extension": ".spl",
+        "Info": "https://en.wikipedia.org/wiki/FutureSplash_Animator"
+    },
+    {
+        "Name": "Gnumeric",
+        "Mimetype": "application/x-gnumeric",
+        "Icon": "",
+        "Extension": ".gnumeric",
+        "Info": "https://en.wikipedia.org/wiki/Gnumeric"
+    },
+    {
+        "Name": "GNU Tar Files",
+        "Mimetype": "application/x-gtar",
+        "Icon": "",
+        "Extension": ".gtar",
+        "Info": "http://www.gnu.org/software/tar/"
+    },
+    {
+        "Name": "Hierarchical Data Format",
+        "Mimetype": "application/x-hdf",
+        "Icon": "",
+        "Extension": ".hdf",
+        "Info": "https://en.wikipedia.org/wiki/Hierarchical_Data_Format"
+    },
+    {
+        "Name": "Java Network Launching Protocol",
+        "Mimetype": "application/x-java-jnlp-file",
+        "Icon": "",
+        "Extension": ".jnlp",
+        "Info": "https://en.wikipedia.org/wiki/Java_Web_Start"
+    },
+    {
+        "Name": "LaTeX",
+        "Mimetype": "application/x-latex",
+        "Icon": "",
+        "Extension": ".latex",
+        "Info": "https://en.wikipedia.org/wiki/LaTeX"
+    },
+    {
+        "Name": "Mobipocket",
+        "Mimetype": "application/x-mobipocket-ebook",
+        "Icon": "",
+        "Extension": ".prc",
+        "Info": "https://en.wikipedia.org/wiki/Mobipocket"
+    },
+    {
+        "Name": "Microsoft ClickOnce",
+        "Mimetype": "application/x-ms-application",
+        "Icon": "",
+        "Extension": ".application",
+        "Info": "https://en.wikipedia.org/wiki/ClickOnce"
+    },
+    {
+        "Name": "Microsoft Windows Media Player Download Package",
+        "Mimetype": "application/x-ms-wmd",
+        "Icon": "",
+        "Extension": ".wmd",
+        "Info": "https://en.wikipedia.org/wiki/Windows_Media_Player"
+    },
+    {
+        "Name": "Microsoft Windows Media Player Skin Package",
+        "Mimetype": "application/x-ms-wmz",
+        "Icon": "",
+        "Extension": ".wmz",
+        "Info": "https://en.wikipedia.org/wiki/Windows_Media_Player"
+    },
+    {
+        "Name": "Microsoft XAML Browser Application",
+        "Mimetype": "application/x-ms-xbap",
+        "Icon": "",
+        "Extension": ".xbap",
+        "Info": "https://en.wikipedia.org/wiki/XAML_Browser_Applications"
+    },
+    {
+        "Name": "Microsoft Access",
+        "Mimetype": "application/x-msaccess",
+        "Icon": "",
+        "Extension": ".mdb",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Access"
+    },
+    {
+        "Name": "Microsoft Office Binder",
+        "Mimetype": "application/x-msbinder",
+        "Icon": "",
+        "Extension": ".obd",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Office_shared_tools"
+    },
+    {
+        "Name": "Microsoft Information Card",
+        "Mimetype": "application/x-mscardfile",
+        "Icon": "",
+        "Extension": ".crd",
+        "Info": "https://en.wikipedia.org/wiki/Information_Card"
+    },
+    {
+        "Name": "Microsoft Clipboard Clip",
+        "Mimetype": "application/x-msclip",
+        "Icon": "",
+        "Extension": ".clp",
+        "Info": "https://en.wikipedia.org/wiki/Clipboard_%28computing%29"
+    },
+    {
+        "Name": "Microsoft Application",
+        "Mimetype": "application/x-msdownload",
+        "Icon": "",
+        "Extension": ".exe",
+        "Info": "https://en.wikipedia.org/wiki/EXE"
+    },
+    {
+        "Name": "Microsoft MediaView",
+        "Mimetype": "application/x-msmediaview",
+        "Icon": "",
+        "Extension": ".mvb",
+        "Info": "http://www.herdsoft.com/ti/winhelpcgi/winhelpcgi.cgi/helpfiles/english/hlp2rtf.hlp/id/id_purpose.html"
+    },
+    {
+        "Name": "Microsoft Windows Metafile",
+        "Mimetype": "application/x-msmetafile",
+        "Icon": "",
+        "Extension": ".wmf",
+        "Info": "https://en.wikipedia.org/wiki/Windows_Metafile"
+    },
+    {
+        "Name": "Microsoft Money",
+        "Mimetype": "application/x-msmoney",
+        "Icon": "",
+        "Extension": ".mny",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_money"
+    },
+    {
+        "Name": "Microsoft Publisher",
+        "Mimetype": "application/x-mspublisher",
+        "Icon": "",
+        "Extension": ".pub",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Publisher"
+    },
+    {
+        "Name": "Microsoft Schedule+",
+        "Mimetype": "application/x-msschedule",
+        "Icon": "",
+        "Extension": ".scd",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Schedule_Plus"
+    },
+    {
+        "Name": "Microsoft Windows Terminal Services",
+        "Mimetype": "application/x-msterminal",
+        "Icon": "",
+        "Extension": ".trm",
+        "Info": "https://en.wikipedia.org/wiki/Remote_Desktop_Services#Terminal_Server"
+    },
+    {
+        "Name": "Microsoft Wordpad",
+        "Mimetype": "application/x-mswrite",
+        "Icon": "",
+        "Extension": ".wri",
+        "Info": "https://en.wikipedia.org/wiki/Wordpad"
+    },
+    {
+        "Name": "Network Common Data Form (NetCDF)",
+        "Mimetype": "application/x-netcdf",
+        "Icon": "",
+        "Extension": ".nc",
+        "Info": "https://en.wikipedia.org/wiki/NetCDF"
+    },
+    {
+        "Name": "PKCS #12 - Personal Information Exchange Syntax Standard",
+        "Mimetype": "application/x-pkcs12",
+        "Icon": "",
+        "Extension": ".p12",
+        "Info": "http://tools.ietf.org/html/rfc2986"
+    },
+    {
+        "Name": "PKCS #7 - Cryptographic Message Syntax Standard (Certificates)",
+        "Mimetype": "application/x-pkcs7-certificates",
+        "Icon": "",
+        "Extension": ".p7b",
+        "Info": "http://tools.ietf.org/html/rfc2986"
+    },
+    {
+        "Name": "PKCS #7 - Cryptographic Message Syntax Standard (Certificate Request Response)",
+        "Mimetype": "application/x-pkcs7-certreqresp",
+        "Icon": "",
+        "Extension": ".p7r",
+        "Info": "http://tools.ietf.org/html/rfc2986"
+    },
+    {
+        "Name": "RAR Archive",
+        "Mimetype": "application/x-rar-compressed",
+        "Icon": "",
+        "Extension": ".rar",
+        "Info": "https://en.wikipedia.org/wiki/Rar"
+    },
+    {
+        "Name": "Bourne Shell Script",
+        "Mimetype": "application/x-sh",
+        "Icon": "",
+        "Extension": ".sh",
+        "Info": "https://en.wikipedia.org/wiki/Bourne_shell"
+    },
+    {
+        "Name": "Shell Archive",
+        "Mimetype": "application/x-shar",
+        "Icon": "",
+        "Extension": ".shar",
+        "Info": "https://en.wikipedia.org/wiki/Shar"
+    },
+    {
+        "Name": "Adobe Flash",
+        "Mimetype": "application/x-shockwave-flash",
+        "Icon": "",
+        "Extension": ".swf",
+        "Info": "https://en.wikipedia.org/wiki/Swf"
+    },
+    {
+        "Name": "Microsoft Silverlight",
+        "Mimetype": "application/x-silverlight-app",
+        "Icon": "",
+        "Extension": ".xap",
+        "Info": "https://en.wikipedia.org/wiki/Silverlight"
+    },
+    {
+        "Name": "Stuffit Archive",
+        "Mimetype": "application/x-stuffit",
+        "Icon": "",
+        "Extension": ".sit",
+        "Info": "https://en.wikipedia.org/wiki/Stuffit"
+    },
+    {
+        "Name": "Stuffit Archive",
+        "Mimetype": "application/x-stuffitx",
+        "Icon": "",
+        "Extension": ".sitx",
+        "Info": "https://en.wikipedia.org/wiki/Stuffit"
+    },
+    {
+        "Name": "System V Release 4 CPIO Archive",
+        "Mimetype": "application/x-sv4cpio",
+        "Icon": "",
+        "Extension": ".sv4cpio",
+        "Info": "https://en.wikipedia.org/wiki/Pax_%28Unix%29"
+    },
+    {
+        "Name": "System V Release 4 CPIO Checksum Data",
+        "Mimetype": "application/x-sv4crc",
+        "Icon": "",
+        "Extension": ".sv4crc",
+        "Info": "https://en.wikipedia.org/wiki/Pax_%28Unix%29"
+    },
+    {
+        "Name": "Tar File (Tape Archive)",
+        "Mimetype": "application/x-tar",
+        "Icon": "",
+        "Extension": ".tar",
+        "Info": "https://en.wikipedia.org/wiki/Tar_file"
+    },
+    {
+        "Name": "Tcl Script",
+        "Mimetype": "application/x-tcl",
+        "Icon": "",
+        "Extension": ".tcl",
+        "Info": "https://en.wikipedia.org/wiki/Tcl"
+    },
+    {
+        "Name": "TeX",
+        "Mimetype": "application/x-tex",
+        "Icon": "",
+        "Extension": ".tex",
+        "Info": "https://en.wikipedia.org/wiki/TeX"
+    },
+    {
+        "Name": "TeX Font Metric",
+        "Mimetype": "application/x-tex-tfm",
+        "Icon": "",
+        "Extension": ".tfm",
+        "Info": "https://en.wikipedia.org/wiki/TeX_font_metric"
+    },
+    {
+        "Name": "GNU Texinfo Document",
+        "Mimetype": "application/x-texinfo",
+        "Icon": "",
+        "Extension": ".texinfo",
+        "Info": "https://en.wikipedia.org/wiki/Texinfo"
+    },
+    {
+        "Name": "Ustar (Uniform Standard Tape Archive)",
+        "Mimetype": "application/x-ustar",
+        "Icon": "",
+        "Extension": ".ustar",
+        "Info": "https://en.wikipedia.org/wiki/Ustar#UStar_format"
+    },
+    {
+        "Name": "WAIS Source",
+        "Mimetype": "application/x-wais-source",
+        "Icon": "",
+        "Extension": ".src",
+        "Info": "http://www.yolinux.com/TUTORIALS/notes_wais.html"
+    },
+    {
+        "Name": "X.509 Certificate",
+        "Mimetype": "application/x-x509-ca-cert",
+        "Icon": "",
+        "Extension": ".der",
+        "Info": "https://en.wikipedia.org/wiki/X.509"
+    },
+    {
+        "Name": "Xfig",
+        "Mimetype": "application/x-xfig",
+        "Icon": "",
+        "Extension": ".fig",
+        "Info": "https://en.wikipedia.org/wiki/Xfig"
+    },
+    {
+        "Name": "XPInstall - Mozilla",
+        "Mimetype": "application/x-xpinstall",
+        "Icon": "",
+        "Extension": ".xpi",
+        "Info": "https://en.wikipedia.org/wiki/XPI"
+    },
+    {
+        "Name": "XML Configuration Access Protocol - XCAP Diff",
+        "Mimetype": "application/xcap-diff+xml",
+        "Icon": "",
+        "Extension": ".xdf",
+        "Info": "https://en.wikipedia.org/wiki/XCAP"
+    },
+    {
+        "Name": "XML Encryption Syntax and Processing",
+        "Mimetype": "application/xenc+xml",
+        "Icon": "",
+        "Extension": ".xenc",
+        "Info": "http://www.w3.org/TR/xmlenc-core/"
+    },
+    {
+        "Name": "XHTML - The Extensible HyperText Markup Language",
+        "Mimetype": "application/xhtml+xml",
+        "Icon": "",
+        "Extension": ".xhtml",
+        "Info": "http://www.w3.org/TR/xhtml1/"
+    },
+    {
+        "Name": "XML - Extensible Markup Language",
+        "Mimetype": "application/xml",
+        "Icon": "",
+        "Extension": ".xml",
+        "Info": "http://www.w3.org/XML/"
+    },
+    {
+        "Name": "Document Type Definition",
+        "Mimetype": "application/xml-dtd",
+        "Icon": "",
+        "Extension": ".dtd",
+        "Info": "http://www.w3.org/TR/html4/sgml/dtd.html"
+    },
+    {
+        "Name": "XML-Binary Optimized Packaging",
+        "Mimetype": "application/xop+xml",
+        "Icon": "",
+        "Extension": ".xop",
+        "Info": "http://www.w3.org/TR/xop10/"
+    },
+    {
+        "Name": "XML Transformations",
+        "Mimetype": "application/xslt+xml",
+        "Icon": "",
+        "Extension": ".xslt",
+        "Info": "http://www.w3.org/TR/xslt"
+    },
+    {
+        "Name": "XSPF - XML Shareable Playlist Format",
+        "Mimetype": "application/xspf+xml",
+        "Icon": "",
+        "Extension": ".xspf",
+        "Info": "http://www.xspf.org/quickstart/"
+    },
+    {
+        "Name": "MXML",
+        "Mimetype": "application/xv+xml",
+        "Icon": "",
+        "Extension": ".mxml",
+        "Info": "https://en.wikipedia.org/wiki/MXML"
+    },
+    {
+        "Name": "YANG Data Modeling Language",
+        "Mimetype": "application/yang",
+        "Icon": "",
+        "Extension": ".yang",
+        "Info": "https://en.wikipedia.org/wiki/YANG"
+    },
+    {
+        "Name": "YIN (YANG - XML)",
+        "Mimetype": "application/yin+xml",
+        "Icon": "",
+        "Extension": ".yin",
+        "Info": "https://en.wikipedia.org/wiki/YANG"
+    },
+    {
+        "Name": "Zip Archive",
+        "Mimetype": "application/zip",
+        "Icon": "",
+        "Extension": ".zip",
+        "Info": "https://en.wikipedia.org/wiki/ZIP_%28file_format%29"
+    },
+    {
+        "Name": "Adaptive differential pulse-code modulation",
+        "Mimetype": "audio/adpcm",
+        "Icon": "",
+        "Extension": ".adp",
+        "Info": "https://en.wikipedia.org/wiki/ADPCM"
+    },
+    {
+        "Name": "Sun Audio - Au file format",
+        "Mimetype": "audio/basic",
+        "Icon": "",
+        "Extension": ".au",
+        "Info": "https://en.wikipedia.org/wiki/Sun_Audio"
+    },
+    {
+        "Name": "MIDI - Musical Instrument Digital Interface",
+        "Mimetype": "audio/midi",
+        "Icon": "",
+        "Extension": ".mid",
+        "Info": "https://en.wikipedia.org/wiki/Midi"
+    },
+    {
+        "Name": "MPEG-4 Audio",
+        "Mimetype": "audio/mp4",
+        "Icon": "",
+        "Extension": ".mp4a",
+        "Info": "https://en.wikipedia.org/wiki/Mp4a"
+    },
+    {
+        "Name": "MPEG Audio",
+        "Mimetype": "audio/mpeg",
+        "Icon": "",
+        "Extension": ".mpga",
+        "Info": "https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II"
+    },
+    {
+        "Name": "Ogg Audio",
+        "Mimetype": "audio/ogg",
+        "Icon": "",
+        "Extension": ".oga",
+        "Info": "https://en.wikipedia.org/wiki/Ogg"
+    },
+    {
+        "Name": "DECE Audio",
+        "Mimetype": "audio/vnd.dece.audio",
+        "Icon": "",
+        "Extension": ".uva",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.dece.audio"
+    },
+    {
+        "Name": "Digital Winds Music",
+        "Mimetype": "audio/vnd.digital-winds",
+        "Icon": "",
+        "Extension": ".eol",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.digital-winds"
+    },
+    {
+        "Name": "DRA Audio",
+        "Mimetype": "audio/vnd.dra",
+        "Icon": "",
+        "Extension": ".dra",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.dra"
+    },
+    {
+        "Name": "DTS Audio",
+        "Mimetype": "audio/vnd.dts",
+        "Icon": "",
+        "Extension": ".dts",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.dts"
+    },
+    {
+        "Name": "DTS High Definition Audio",
+        "Mimetype": "audio/vnd.dts.hd",
+        "Icon": "",
+        "Extension": ".dtshd",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.dts.hd"
+    },
+    {
+        "Name": "Lucent Voice",
+        "Mimetype": "audio/vnd.lucent.voice",
+        "Icon": "",
+        "Extension": ".lvp",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.lucent.voice"
+    },
+    {
+        "Name": "Microsoft PlayReady Ecosystem",
+        "Mimetype": "audio/vnd.ms-playready.media.pya",
+        "Icon": "",
+        "Extension": ".pya",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.ms-playready.media.pya"
+    },
+    {
+        "Name": "Nuera ECELP 4800",
+        "Mimetype": "audio/vnd.nuera.ecelp4800",
+        "Icon": "",
+        "Extension": ".ecelp4800",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp4800"
+    },
+    {
+        "Name": "Nuera ECELP 7470",
+        "Mimetype": "audio/vnd.nuera.ecelp7470",
+        "Icon": "",
+        "Extension": ".ecelp7470",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp7470"
+    },
+    {
+        "Name": "Nuera ECELP 9600",
+        "Mimetype": "audio/vnd.nuera.ecelp9600",
+        "Icon": "",
+        "Extension": ".ecelp9600",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.nuera.ecelp9600"
+    },
+    {
+        "Name": "Hit'n'Mix",
+        "Mimetype": "audio/vnd.rip",
+        "Icon": "",
+        "Extension": ".rip",
+        "Info": "http://www.iana.org/assignments/media-types/audio/vnd.rip"
+    },
+    {
+        "Name": "Open Web Media Project - Audio",
+        "Mimetype": "audio/webm",
+        "Icon": "",
+        "Extension": ".weba",
+        "Info": "http://www.webmproject.org/about/faq/"
+    },
+    {
+        "Name": "Advanced Audio Coding (AAC)",
+        "Mimetype": "audio/x-aac",
+        "Icon": "",
+        "Extension": ".aac",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Audio_Coding"
+    },
+    {
+        "Name": "Audio Interchange File Format",
+        "Mimetype": "audio/x-aiff",
+        "Icon": "",
+        "Extension": ".aif",
+        "Info": "https://en.wikipedia.org/wiki/Audio_Interchange_File_Format"
+    },
+    {
+        "Name": "M3U (Multimedia Playlist)",
+        "Mimetype": "audio/x-mpegurl",
+        "Icon": "",
+        "Extension": ".m3u",
+        "Info": "https://en.wikipedia.org/wiki/M3u"
+    },
+    {
+        "Name": "Microsoft Windows Media Audio Redirector",
+        "Mimetype": "audio/x-ms-wax",
+        "Icon": "",
+        "Extension": ".wax",
+        "Info": "http://www.microsoft.com/windows/windowsmedia/howto/articles/introwmmeta.aspx"
+    },
+    {
+        "Name": "Microsoft Windows Media Audio",
+        "Mimetype": "audio/x-ms-wma",
+        "Icon": "",
+        "Extension": ".wma",
+        "Info": "https://en.wikipedia.org/wiki/Windows_Media_Audio"
+    },
+    {
+        "Name": "Real Audio Sound",
+        "Mimetype": "audio/x-pn-realaudio",
+        "Icon": "",
+        "Extension": ".ram",
+        "Info": "https://en.wikipedia.org/wiki/RealPlayer"
+    },
+    {
+        "Name": "Real Audio Sound",
+        "Mimetype": "audio/x-pn-realaudio-plugin",
+        "Icon": "",
+        "Extension": ".rmp",
+        "Info": "https://en.wikipedia.org/wiki/RealPlayer"
+    },
+    {
+        "Name": "Waveform Audio File Format (WAV)",
+        "Mimetype": "audio/x-wav",
+        "Icon": "",
+        "Extension": ".wav",
+        "Info": "https://en.wikipedia.org/wiki/Wav"
+    },
+    {
+        "Name": "ChemDraw eXchange file",
+        "Mimetype": "chemical/x-cdx",
+        "Icon": "",
+        "Extension": ".cdx",
+        "Info": "http://www.cambridgesoft.com/services/documentation/sdk/chemdraw/cdx/"
+    },
+    {
+        "Name": "Crystallographic Interchange Format",
+        "Mimetype": "chemical/x-cif",
+        "Icon": "",
+        "Extension": ".cif",
+        "Info": "http://www.iucr.org/resources/cif"
+    },
+    {
+        "Name": "CrystalMaker Data Format",
+        "Mimetype": "chemical/x-cmdf",
+        "Icon": "",
+        "Extension": ".cmdf",
+        "Info": "http://www.crystalmaker.com/crystalmaker/whatis.html"
+    },
+    {
+        "Name": "Chemical Markup Language",
+        "Mimetype": "chemical/x-cml",
+        "Icon": "",
+        "Extension": ".cml",
+        "Info": "https://en.wikipedia.org/wiki/Chemical_Markup_Language"
+    },
+    {
+        "Name": "Chemical Style Markup Language",
+        "Mimetype": "chemical/x-csml",
+        "Icon": "",
+        "Extension": ".csml",
+        "Info": "https://en.wikipedia.org/wiki/Chemical_file_format"
+    },
+    {
+        "Name": "XYZ File Format",
+        "Mimetype": "chemical/x-xyz",
+        "Icon": "",
+        "Extension": ".xyz",
+        "Info": "https://en.wikipedia.org/wiki/XYZ_file_format"
+    },
+    {
+        "Name": "Bitmap Image File",
+        "Mimetype": "image/bmp",
+        "Icon": "",
+        "Extension": ".bmp",
+        "Info": "https://en.wikipedia.org/wiki/BMP_file_format"
+    },
+    {
+        "Name": "Computer Graphics Metafile",
+        "Mimetype": "image/cgm",
+        "Icon": "",
+        "Extension": ".cgm",
+        "Info": "https://en.wikipedia.org/wiki/Computer_Graphics_Metafile"
+    },
+    {
+        "Name": "G3 Fax Image",
+        "Mimetype": "image/g3fax",
+        "Icon": "",
+        "Extension": ".g3",
+        "Info": "https://en.wikipedia.org/wiki/T.38"
+    },
+    {
+        "Name": "Graphics Interchange Format",
+        "Mimetype": "image/gif",
+        "Icon": "",
+        "Extension": ".gif",
+        "Info": "https://en.wikipedia.org/wiki/Gif"
+    },
+    {
+        "Name": "Image Exchange Format",
+        "Mimetype": "image/ief",
+        "Icon": "",
+        "Extension": ".ief",
+        "Info": "http://www.rfc-editor.org/rfc/rfc1314.txt"
+    },
+    {
+        "Name": "JPEG Image",
+        "Mimetype": "image/jpeg",
+        "Icon": "",
+        "Extension": ".jpeg, .jpg",
+        "Info": "http://www.rfc-editor.org/rfc/rfc1314.txt"
+    },
+    {
+        "Name": "JPEG Image (Progressive)",
+        "Mimetype": "image/pjpeg",
+        "Icon": "",
+        "Extension": ".pjpeg",
+        "Info": "http://www.faqs.org/faqs/jpeg-faq/part1/section-11.html"
+    },
+    {
+        "Name": "JPEG Image (Citrix client)",
+        "Mimetype": "image/x-citrix-jpeg",
+        "Icon": "",
+        "Extension": ".jpeg, .jpg",
+        "Info": "http://www.rfc-editor.org/rfc/rfc1314.txt"
+    },
+    {
+        "Name": "OpenGL Textures (KTX)",
+        "Mimetype": "image/ktx",
+        "Icon": "",
+        "Extension": ".ktx",
+        "Info": "http://www.khronos.org/opengles/sdk/tools/KTX/file_format_spec/"
+    },
+    {
+        "Name": "Portable Network Graphics (PNG)",
+        "Mimetype": "image/png",
+        "Icon": "",
+        "Extension": ".png",
+        "Info": "http://tools.ietf.org/html/rfc2083"
+    },
+    {
+        "Name": "Portable Network Graphics (PNG) (x-token)",
+        "Mimetype": "image/x-png",
+        "Icon": "",
+        "Extension": ".png",
+        "Info": "http://tools.ietf.org/html/rfc2083"
+    },
+    {
+        "Name": "Portable Network Graphics (PNG) (Citrix client)",
+        "Mimetype": "image/x-citrix-png",
+        "Icon": "",
+        "Extension": ".png",
+        "Info": "http://tools.ietf.org/html/rfc2083"
+    },
+    {
+        "Name": "BTIF",
+        "Mimetype": "image/prs.btif",
+        "Icon": "",
+        "Extension": ".btif",
+        "Info": "http://www.iana.org/assignments/media-types/image/prs.btif"
+    },
+    {
+        "Name": "Scalable Vector Graphics (SVG)",
+        "Mimetype": "image/svg+xml",
+        "Icon": "",
+        "Extension": ".svg",
+        "Info": "https://en.wikipedia.org/wiki/Scalable_Vector_Graphics"
+    },
+    {
+        "Name": "Tagged Image File Format",
+        "Mimetype": "image/tiff",
+        "Icon": "",
+        "Extension": ".tiff",
+        "Info": "https://en.wikipedia.org/wiki/Tagged_Image_File_Format"
+    },
+    {
+        "Name": "Photoshop Document",
+        "Mimetype": "image/vnd.adobe.photoshop",
+        "Icon": "",
+        "Extension": ".psd",
+        "Info": "https://en.wikipedia.org/wiki/Adobe_Photoshop#Features"
+    },
+    {
+        "Name": "DECE Graphic",
+        "Mimetype": "image/vnd.dece.graphic",
+        "Icon": "",
+        "Extension": ".uvi",
+        "Info": "http://www.iana.org/assignments/media-types/image/vnd.dece.graphic"
+    },
+    {
+        "Name": "Close Captioning - Subtitle",
+        "Mimetype": "image/vnd.dvb.subtitle",
+        "Icon": "",
+        "Extension": ".sub",
+        "Info": "https://en.wikipedia.org/wiki/Closed_captioning"
+    },
+    {
+        "Name": "DjVu",
+        "Mimetype": "image/vnd.djvu",
+        "Icon": "",
+        "Extension": ".djvu",
+        "Info": "https://en.wikipedia.org/wiki/DjVu"
+    },
+    {
+        "Name": "DWG Drawing",
+        "Mimetype": "image/vnd.dwg",
+        "Icon": "",
+        "Extension": ".dwg",
+        "Info": "https://en.wikipedia.org/wiki/Dwg"
+    },
+    {
+        "Name": "AutoCAD DXF",
+        "Mimetype": "image/vnd.dxf",
+        "Icon": "",
+        "Extension": ".dxf",
+        "Info": "https://en.wikipedia.org/wiki/Dxf"
+    },
+    {
+        "Name": "FastBid Sheet",
+        "Mimetype": "image/vnd.fastbidsheet",
+        "Icon": "",
+        "Extension": ".fbs",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.fastbidsheet"
+    },
+    {
+        "Name": "FlashPix",
+        "Mimetype": "image/vnd.fpx",
+        "Icon": "",
+        "Extension": ".fpx",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.fpx"
+    },
+    {
+        "Name": "FAST Search \u0026 Transfer ASA",
+        "Mimetype": "image/vnd.fst",
+        "Icon": "",
+        "Extension": ".fst",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.fst"
+    },
+    {
+        "Name": "EDMICS 2000",
+        "Mimetype": "image/vnd.fujixerox.edmics-mmr",
+        "Icon": "",
+        "Extension": ".mmr",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.fujixerox.edmics-mmr"
+    },
+    {
+        "Name": "EDMICS 2000",
+        "Mimetype": "image/vnd.fujixerox.edmics-rlc",
+        "Icon": "",
+        "Extension": ".rlc",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.fujixerox.edmics-rlc"
+    },
+    {
+        "Name": "Microsoft Document Imaging Format",
+        "Mimetype": "image/vnd.ms-modi",
+        "Icon": "",
+        "Extension": ".mdi",
+        "Info": "https://en.wikipedia.org/wiki/Microsoft_Document_Imaging_Format"
+    },
+    {
+        "Name": "FlashPix",
+        "Mimetype": "image/vnd.net-fpx",
+        "Icon": "",
+        "Extension": ".npx",
+        "Info": "http://www.ietf.org/assignments/media-types/image/vnd.net-fpx"
+    },
+    {
+        "Name": "WAP Bitamp (WBMP)",
+        "Mimetype": "image/vnd.wap.wbmp",
+        "Icon": "",
+        "Extension": ".wbmp",
+        "Info": "http://www.iana.org/assignments/media-types/image/vnd-wap-wbmp"
+    },
+    {
+        "Name": "eXtended Image File Format (XIFF)",
+        "Mimetype": "image/vnd.xiff",
+        "Icon": "",
+        "Extension": ".xif",
+        "Info": "http://www.iana.org/assignments/media-types/image/vnd.xiff"
+    },
+    {
+        "Name": "WebP Image",
+        "Mimetype": "image/webp",
+        "Icon": "",
+        "Extension": ".webp",
+        "Info": "https://en.wikipedia.org/wiki/WebP"
+    },
+    {
+        "Name": "CMU Image",
+        "Mimetype": "image/x-cmu-raster",
+        "Icon": "",
+        "Extension": ".ras",
+        "Info": ""
+    },
+    {
+        "Name": "Corel Metafile Exchange (CMX)",
+        "Mimetype": "image/x-cmx",
+        "Icon": "",
+        "Extension": ".cmx",
+        "Info": "https://en.wikipedia.org/wiki/CorelDRAW"
+    },
+    {
+        "Name": "FreeHand MX",
+        "Mimetype": "image/x-freehand",
+        "Icon": "",
+        "Extension": ".fh",
+        "Info": "https://en.wikipedia.org/wiki/Macromedia_FreeHand"
+    },
+    {
+        "Name": "Icon Image",
+        "Mimetype": "image/x-icon",
+        "Icon": "",
+        "Extension": ".ico",
+        "Info": "https://en.wikipedia.org/wiki/ICO_%28file_format%29"
+    },
+    {
+        "Name": "PCX Image",
+        "Mimetype": "image/x-pcx",
+        "Icon": "",
+        "Extension": ".pcx",
+        "Info": "https://en.wikipedia.org/wiki/PCX"
+    },
+    {
+        "Name": "PICT Image",
+        "Mimetype": "image/x-pict",
+        "Icon": "",
+        "Extension": ".pic",
+        "Info": "https://en.wikipedia.org/wiki/PICT"
+    },
+    {
+        "Name": "Portable Anymap Image",
+        "Mimetype": "image/x-portable-anymap",
+        "Icon": "",
+        "Extension": ".pnm",
+        "Info": "https://en.wikipedia.org/wiki/Netpbm_format"
+    },
+    {
+        "Name": "Portable Bitmap Format",
+        "Mimetype": "image/x-portable-bitmap",
+        "Icon": "",
+        "Extension": ".pbm",
+        "Info": "https://en.wikipedia.org/wiki/Netpbm_format"
+    },
+    {
+        "Name": "Portable Graymap Format",
+        "Mimetype": "image/x-portable-graymap",
+        "Icon": "",
+        "Extension": ".pgm",
+        "Info": "https://en.wikipedia.org/wiki/Netpbm_format"
+    },
+    {
+        "Name": "Portable Pixmap Format",
+        "Mimetype": "image/x-portable-pixmap",
+        "Icon": "",
+        "Extension": ".ppm",
+        "Info": "https://en.wikipedia.org/wiki/Netpbm_format"
+    },
+    {
+        "Name": "Silicon Graphics RGB Bitmap",
+        "Mimetype": "image/x-rgb",
+        "Icon": "",
+        "Extension": ".rgb",
+        "Info": "http://www.fileformat.info/format/sgiimage/egff.htm"
+    },
+    {
+        "Name": "X BitMap",
+        "Mimetype": "image/x-xbitmap",
+        "Icon": "",
+        "Extension": ".xbm",
+        "Info": "https://en.wikipedia.org/wiki/X_BitMap"
+    },
+    {
+        "Name": "X PixMap",
+        "Mimetype": "image/x-xpixmap",
+        "Icon": "",
+        "Extension": ".xpm",
+        "Info": "https://en.wikipedia.org/wiki/X_Pixmap"
+    },
+    {
+        "Name": "X Window Dump",
+        "Mimetype": "image/x-xwindowdump",
+        "Icon": "",
+        "Extension": ".xwd",
+        "Info": "https://en.wikipedia.org/wiki/Screenshot"
+    },
+    {
+        "Name": "Email Message",
+        "Mimetype": "message/rfc822",
+        "Icon": "",
+        "Extension": ".eml",
+        "Info": "http://www.rfc-editor.org/info/rfc2822"
+    },
+    {
+        "Name": "Initial Graphics Exchange Specification (IGES)",
+        "Mimetype": "model/iges",
+        "Icon": "",
+        "Extension": ".igs",
+        "Info": "https://en.wikipedia.org/wiki/IGES"
+    },
+    {
+        "Name": "Mesh Data Type",
+        "Mimetype": "model/mesh",
+        "Icon": "",
+        "Extension": ".msh",
+        "Info": "http://www.ietf.org/rfc/rfc2077.txt"
+    },
+    {
+        "Name": "COLLADA",
+        "Mimetype": "model/vnd.collada+xml",
+        "Icon": "",
+        "Extension": ".dae",
+        "Info": "http://www.iana.net/assignments/media-types/model/vnd.collada+xml"
+    },
+    {
+        "Name": "Autodesk Design Web Format (DWF)",
+        "Mimetype": "model/vnd.dwf",
+        "Icon": "",
+        "Extension": ".dwf",
+        "Info": "https://en.wikipedia.org/wiki/Design_Web_Format"
+    },
+    {
+        "Name": "Geometric Description Language (GDL)",
+        "Mimetype": "model/vnd.gdl",
+        "Icon": "",
+        "Extension": ".gdl",
+        "Info": "http://www.iana.org/assignments/media-types/model/vnd.gs-gdl"
+    },
+    {
+        "Name": "Gen-Trix Studio",
+        "Mimetype": "model/vnd.gtw",
+        "Icon": "",
+        "Extension": ".gtw",
+        "Info": "http://www.iana.org/assignments/media-types/model/vnd.gtw"
+    },
+    {
+        "Name": "Virtue MTS",
+        "Mimetype": "model/vnd.mts",
+        "Icon": "",
+        "Extension": ".mts",
+        "Info": "http://www.iana.org/assignments/media-types/model/vnd.mts"
+    },
+    {
+        "Name": "Virtue VTU",
+        "Mimetype": "model/vnd.vtu",
+        "Icon": "",
+        "Extension": ".vtu",
+        "Info": "http://www.iana.org/assignments/media-types/model/vnd.vtu"
+    },
+    {
+        "Name": "Virtual Reality Modeling Language",
+        "Mimetype": "model/vrml",
+        "Icon": "",
+        "Extension": ".wrl",
+        "Info": "https://en.wikipedia.org/wiki/VRML"
+    },
+    {
+        "Name": "iCalendar",
+        "Mimetype": "text/calendar",
+        "Icon": "",
+        "Extension": ".ics",
+        "Info": "https://en.wikipedia.org/wiki/ICalendar"
+    },
+    {
+        "Name": "Cascading Style Sheets (CSS)",
+        "Mimetype": "text/css",
+        "Icon": "",
+        "Extension": ".css",
+        "Info": "https://en.wikipedia.org/wiki/Css"
+    },
+    {
+        "Name": "Comma-Seperated Values",
+        "Mimetype": "text/csv",
+        "Icon": "",
+        "Extension": ".csv",
+        "Info": "https://en.wikipedia.org/wiki/Comma-separated_values"
+    },
+    {
+        "Name": "HyperText Markup Language (HTML)",
+        "Mimetype": "text/html",
+        "Icon": "",
+        "Extension": ".html",
+        "Info": "https://en.wikipedia.org/wiki/Html"
+    },
+    {
+        "Name": "Notation3",
+        "Mimetype": "text/n3",
+        "Icon": "",
+        "Extension": ".n3",
+        "Info": "https://en.wikipedia.org/wiki/Notation3"
+    },
+    {
+        "Name": "Text File",
+        "Mimetype": "text/plain",
+        "Icon": "",
+        "Extension": ".txt",
+        "Info": "https://en.wikipedia.org/wiki/Text_file"
+    },
+    {
+        "Name": "PRS Lines Tag",
+        "Mimetype": "text/prs.lines.tag",
+        "Icon": "",
+        "Extension": ".dsc",
+        "Info": "http://www.iana.org/assignments/media-types/text/prs.lines.tag"
+    },
+    {
+        "Name": "Rich Text Format (RTF)",
+        "Mimetype": "text/richtext",
+        "Icon": "",
+        "Extension": ".rtx",
+        "Info": "https://en.wikipedia.org/wiki/Rich_Text_Format"
+    },
+    {
+        "Name": "Standard Generalized Markup Language (SGML)",
+        "Mimetype": "text/sgml",
+        "Icon": "",
+        "Extension": ".sgml",
+        "Info": "https://en.wikipedia.org/wiki/Sgml"
+    },
+    {
+        "Name": "Tab Seperated Values",
+        "Mimetype": "text/tab-separated-values",
+        "Icon": "",
+        "Extension": ".tsv",
+        "Info": "https://en.wikipedia.org/wiki/Tab-separated_values"
+    },
+    {
+        "Name": "troff",
+        "Mimetype": "text/troff",
+        "Icon": "",
+        "Extension": ".t",
+        "Info": "https://en.wikipedia.org/wiki/Troff"
+    },
+    {
+        "Name": "Turtle (Terse RDF Triple Language)",
+        "Mimetype": "text/turtle",
+        "Icon": "",
+        "Extension": ".ttl",
+        "Info": "https://en.wikipedia.org/wiki/Turtle_%28syntax%29"
+    },
+    {
+        "Name": "URI Resolution Services",
+        "Mimetype": "text/uri-list",
+        "Icon": "",
+        "Extension": ".uri",
+        "Info": "http://tools.ietf.org/html/rfc2483"
+    },
+    {
+        "Name": "Curl - Applet",
+        "Mimetype": "text/vnd.curl",
+        "Icon": "",
+        "Extension": ".curl",
+        "Info": "http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html"
+    },
+    {
+        "Name": "Curl - Detached Applet",
+        "Mimetype": "text/vnd.curl.dcurl",
+        "Icon": "",
+        "Extension": ".dcurl",
+        "Info": "http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html"
+    },
+    {
+        "Name": "Curl - Source Code",
+        "Mimetype": "text/vnd.curl.scurl",
+        "Icon": "",
+        "Extension": ".scurl",
+        "Info": "http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html"
+    },
+    {
+        "Name": "Curl - Manifest File",
+        "Mimetype": "text/vnd.curl.mcurl",
+        "Icon": "",
+        "Extension": ".mcurl",
+        "Info": "http://developers.curlap.com/curl/docs/caede/en/docs/en/dguide/serving-curl-applets.html"
+    },
+    {
+        "Name": "mod_fly / fly.cgi",
+        "Mimetype": "text/vnd.fly",
+        "Icon": "",
+        "Extension": ".fly",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.fly"
+    },
+    {
+        "Name": "FLEXSTOR",
+        "Mimetype": "text/vnd.fmi.flexstor",
+        "Icon": "",
+        "Extension": ".flx",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor"
+    },
+    {
+        "Name": "Graphviz",
+        "Mimetype": "text/vnd.graphviz",
+        "Icon": "",
+        "Extension": ".gv",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.graphviz"
+    },
+    {
+        "Name": "In3D - 3DML",
+        "Mimetype": "text/vnd.in3d.3dml",
+        "Icon": "",
+        "Extension": ".3dml",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.in3d.3dml"
+    },
+    {
+        "Name": "In3D - 3DML",
+        "Mimetype": "text/vnd.in3d.spot",
+        "Icon": "",
+        "Extension": ".spot",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.in3d.spot"
+    },
+    {
+        "Name": "J2ME App Descriptor",
+        "Mimetype": "text/vnd.sun.j2me.app-descriptor",
+        "Icon": "",
+        "Extension": ".jad",
+        "Info": "http://www.iana.org/assignments/media-types/text/vnd.sun.j2me.app-descriptor"
+    },
+    {
+        "Name": "Wireless Markup Language (WML)",
+        "Mimetype": "text/vnd.wap.wml",
+        "Icon": "",
+        "Extension": ".wml",
+        "Info": "https://en.wikipedia.org/wiki/Wireless_Markup_Language"
+    },
+    {
+        "Name": "Wireless Markup Language Script (WMLScript)",
+        "Mimetype": "text/vnd.wap.wmlscript",
+        "Icon": "",
+        "Extension": ".wmls",
+        "Info": "https://en.wikipedia.org/wiki/WMLScript"
+    },
+    {
+        "Name": "Assembler Source File",
+        "Mimetype": "text/x-asm",
+        "Icon": "",
+        "Extension": ".s",
+        "Info": "https://en.wikipedia.org/wiki/Assembly_language"
+    },
+    {
+        "Name": "C Source File",
+        "Mimetype": "text/x-c",
+        "Icon": "",
+        "Extension": ".c",
+        "Info": "https://en.wikipedia.org/wiki/C_%28programming_language%29"
+    },
+    {
+        "Name": "Fortran Source File",
+        "Mimetype": "text/x-fortran",
+        "Icon": "",
+        "Extension": ".f",
+        "Info": "https://en.wikipedia.org/wiki/Fortran"
+    },
+    {
+        "Name": "Pascal Source File",
+        "Mimetype": "text/x-pascal",
+        "Icon": "",
+        "Extension": ".p",
+        "Info": "https://en.wikipedia.org/wiki/Pascal_%28programming_language%29"
+    },
+    {
+        "Name": "Java Source File",
+        "Mimetype": "text/x-java-source,java",
+        "Icon": "",
+        "Extension": ".java",
+        "Info": "https://en.wikipedia.org/wiki/Java_%28programming_language%29"
+    },
+    {
+        "Name": "Setext",
+        "Mimetype": "text/x-setext",
+        "Icon": "",
+        "Extension": ".etx",
+        "Info": "https://en.wikipedia.org/wiki/Setext"
+    },
+    {
+        "Name": "UUEncode",
+        "Mimetype": "text/x-uuencode",
+        "Icon": "",
+        "Extension": ".uu",
+        "Info": "https://en.wikipedia.org/wiki/Uuencode"
+    },
+    {
+        "Name": "vCalendar",
+        "Mimetype": "text/x-vcalendar",
+        "Icon": "",
+        "Extension": ".vcs",
+        "Info": "https://en.wikipedia.org/wiki/VCalendar#vCalendar_1.0"
+    },
+    {
+        "Name": "vCard",
+        "Mimetype": "text/x-vcard",
+        "Icon": "",
+        "Extension": ".vcf",
+        "Info": "https://en.wikipedia.org/wiki/Vcard"
+    },
+    {
+        "Name": "3GP",
+        "Mimetype": "video/3gpp",
+        "Icon": "",
+        "Extension": ".3gp",
+        "Info": "https://en.wikipedia.org/wiki/3GP_and_3G2"
+    },
+    {
+        "Name": "3GP2",
+        "Mimetype": "video/3gpp2",
+        "Icon": "",
+        "Extension": ".3g2",
+        "Info": "https://en.wikipedia.org/wiki/3GP_and_3G2"
+    },
+    {
+        "Name": "H.261",
+        "Mimetype": "video/h261",
+        "Icon": "",
+        "Extension": ".h261",
+        "Info": "https://en.wikipedia.org/wiki/H261"
+    },
+    {
+        "Name": "H.263",
+        "Mimetype": "video/h263",
+        "Icon": "",
+        "Extension": ".h263",
+        "Info": "https://en.wikipedia.org/wiki/H263"
+    },
+    {
+        "Name": "H.264",
+        "Mimetype": "video/h264",
+        "Icon": "",
+        "Extension": ".h264",
+        "Info": "https://en.wikipedia.org/wiki/H264"
+    },
+    {
+        "Name": "JPGVideo",
+        "Mimetype": "video/jpeg",
+        "Icon": "",
+        "Extension": ".jpgv",
+        "Info": "http://www.rfc-editor.org/rfc/rfc3555.txt"
+    },
+    {
+        "Name": "JPEG 2000 Compound Image File Format",
+        "Mimetype": "video/jpm",
+        "Icon": "",
+        "Extension": ".jpm",
+        "Info": "http://www.iana.org/assignments/media-types/video/jpm"
+    },
+    {
+        "Name": "Motion JPEG 2000",
+        "Mimetype": "video/mj2",
+        "Icon": "",
+        "Extension": ".mj2",
+        "Info": "http://www.iana.org/assignments/media-types/video/mj2"
+    },
+    {
+        "Name": "MPEG-4 Video",
+        "Mimetype": "video/mp4",
+        "Icon": "",
+        "Extension": ".mp4",
+        "Info": "https://en.wikipedia.org/wiki/MPEG-4_Part_14"
+    },
+    {
+        "Name": "MPEG Video",
+        "Mimetype": "video/mpeg",
+        "Icon": "",
+        "Extension": ".mpeg",
+        "Info": "https://en.wikipedia.org/wiki/Mpeg"
+    },
+    {
+        "Name": "Ogg Video",
+        "Mimetype": "video/ogg",
+        "Icon": "",
+        "Extension": ".ogv",
+        "Info": "https://en.wikipedia.org/wiki/Ogg"
+    },
+    {
+        "Name": "Quicktime Video",
+        "Mimetype": "video/quicktime",
+        "Icon": "",
+        "Extension": ".qt",
+        "Info": "https://en.wikipedia.org/wiki/Quicktime"
+    },
+    {
+        "Name": "DECE High Definition Video",
+        "Mimetype": "video/vnd.dece.hd",
+        "Icon": "",
+        "Extension": ".uvh",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.dece.hd"
+    },
+    {
+        "Name": "DECE Mobile Video",
+        "Mimetype": "video/vnd.dece.mobile",
+        "Icon": "",
+        "Extension": ".uvm",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.dece.mobile"
+    },
+    {
+        "Name": "DECE PD Video",
+        "Mimetype": "video/vnd.dece.pd",
+        "Icon": "",
+        "Extension": ".uvp",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.dece.pd"
+    },
+    {
+        "Name": "DECE SD Video",
+        "Mimetype": "video/vnd.dece.sd",
+        "Icon": "",
+        "Extension": ".uvs",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.dece.sd"
+    },
+    {
+        "Name": "DECE Video",
+        "Mimetype": "video/vnd.dece.video",
+        "Icon": "",
+        "Extension": ".uvv",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.dece.video"
+    },
+    {
+        "Name": "FAST Search \u0026 Transfer ASA",
+        "Mimetype": "video/vnd.fvt",
+        "Icon": "",
+        "Extension": ".fvt",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.fvt"
+    },
+    {
+        "Name": "MPEG Url",
+        "Mimetype": "video/vnd.mpegurl",
+        "Icon": "",
+        "Extension": ".mxu",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd-mpegurl"
+    },
+    {
+        "Name": "Microsoft PlayReady Ecosystem Video",
+        "Mimetype": "video/vnd.ms-playready.media.pyv",
+        "Icon": "",
+        "Extension": ".pyv",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.ms-playready.media.pyv"
+    },
+    {
+        "Name": "DECE MP4",
+        "Mimetype": "video/vnd.uvvu.mp4",
+        "Icon": "",
+        "Extension": ".uvu",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd.uvvu-mp4"
+    },
+    {
+        "Name": "Vivo",
+        "Mimetype": "video/vnd.vivo",
+        "Icon": "",
+        "Extension": ".viv",
+        "Info": "http://www.iana.org/assignments/media-types/video/vnd-vivo"
+    },
+    {
+        "Name": "Open Web Media Project - Video",
+        "Mimetype": "video/webm",
+        "Icon": "",
+        "Extension": ".webm",
+        "Info": "http://www.webmproject.org/about/faq/"
+    },
+    {
+        "Name": "Flash Video",
+        "Mimetype": "video/x-f4v",
+        "Icon": "",
+        "Extension": ".f4v",
+        "Info": "https://en.wikipedia.org/wiki/Flash_Video"
+    },
+    {
+        "Name": "FLI/FLC Animation Format",
+        "Mimetype": "video/x-fli",
+        "Icon": "",
+        "Extension": ".fli",
+        "Info": "http://www.aos.wisc.edu/fli.html"
+    },
+    {
+        "Name": "Flash Video",
+        "Mimetype": "video/x-flv",
+        "Icon": "",
+        "Extension": ".flv",
+        "Info": "https://en.wikipedia.org/wiki/Flash_Video"
+    },
+    {
+        "Name": "M4v",
+        "Mimetype": "video/x-m4v",
+        "Icon": "",
+        "Extension": ".m4v",
+        "Info": "https://en.wikipedia.org/wiki/M4v"
+    },
+    {
+        "Name": "Microsoft Advanced Systems Format (ASF)",
+        "Mimetype": "video/x-ms-asf",
+        "Icon": "",
+        "Extension": ".asf",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+        "Name": "Microsoft Windows Media",
+        "Mimetype": "video/x-ms-wm",
+        "Icon": "",
+        "Extension": ".wm",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+        "Name": "Microsoft Windows Media Video",
+        "Mimetype": "video/x-ms-wmv",
+        "Icon": "",
+        "Extension": ".wmv",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+        "Name": "Microsoft Windows Media Audio/Video Playlist",
+        "Mimetype": "video/x-ms-wmx",
+        "Icon": "",
+        "Extension": ".wmx",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+        "Name": "Microsoft Windows Media Video Playlist",
+        "Mimetype": "video/x-ms-wvx",
+        "Icon": "",
+        "Extension": ".wvx",
+        "Info": "https://en.wikipedia.org/wiki/Advanced_Systems_Format"
+    },
+    {
+        "Name": "Audio Video Interleave (AVI)",
+        "Mimetype": "video/x-msvideo",
+        "Icon": "",
+        "Extension": ".avi",
+        "Info": "https://en.wikipedia.org/wiki/Audio_Video_Interleave"
+    },
+    {
+        "Name": "SGI Movie",
+        "Mimetype": "video/x-sgi-movie",
+        "Icon": "",
+        "Extension": ".movie",
+        "Info": "http://www.pimpworks.org/sgi/faq/movie.shtml"
+    },
+    {
+        "Name": "CoolTalk",
+        "Mimetype": "x-conference/x-cooltalk",
+        "Icon": "",
+        "Extension": ".ice",
+        "Info": "https://en.wikipedia.org/wiki/CoolTalk"
+    },
+    {
+        "Name": "BAS Partitur Format",
+        "Mimetype": "text/plain-bas",
+        "Icon": "",
+        "Extension": ".par",
+        "Info": "http://www.bas.uni-muenchen.de/Bas/BasFormatseng.html#Partitur"
+    },
+    {
+        "Name": "YAML Ain't Markup Language / Yet Another Markup Language",
+        "Mimetype": "text/yaml",
+        "Icon": "",
+        "Extension": ".yaml",
+        "Info": "http://www.yaml.org/"
+    },
+    {
+        "Name": "Apple Disk Image",
+        "Mimetype": "application/x-apple-diskimage",
+        "Icon": "",
+        "Extension": ".dmg",
+        "Info": "https://en.wikipedia.org/wiki/Apple_Disk_Image"
+    },
+    {
+        "Name": "GPS eXchange Format",
+        "Mimetype": "application/gpx+xml",
+        "Icon": "",
+        "Extension": ".gpx",
+        "Info": "https://en.wikipedia.org/wiki/GPS_Exchange_Format"
+    },
+    {
+        "Name": "Archive document - Multiple Fils Embedded",
+        "Mimetype": "application/x-freearc",
+        "Icon": "",
+        "Extension": ".arc",
+        "Info": "https://en.wikipedia.org/wiki/FreeArc"
+    },
+    {
+        "Name": "AV1 Image File",
+        "Mimetype": "image/avif",
+        "Icon": "",
+        "Extension": ".avif",
+        "Info": "https://en.wikipedia.org/wiki/AVIF"
+    },
+    {
+        "Name": "CD Audio",
+        "Mimetype": "application/x-cdf",
+        "Icon": "",
+        "Extension": ".cda",
+        "Info": "https://en.wikipedia.org/wiki/.cda_fileF"
+    },
+    {
+        "Name": "GZip",
+        "Mimetype": "application/gzip",
+        "Icon": "",
+        "Extension": ".gz",
+        "Info": "https://en.wikipedia.org/wiki/Gzip"
+    },
+    {
+        "Name": "JSON - Linked Data",
+        "Mimetype": "application/ld+json",
+        "Icon": "",
+        "Extension": ".jsonld",
+        "Info": "https://en.wikipedia.org/wiki/JSON-LD"
+    },
+    {
+        "Name": "MIDI",
+        "Mimetype": "audio/midi",
+        "Icon": "",
+        "Extension": ".midi",
+        "Info": "https://en.wikipedia.org/wiki/Midi"
+    },
+    {
+        "Name": "JavaScript Module",
+        "Mimetype": "text/javascript",
+        "Icon": "",
+        "Extension": ".mjs",
+        "Info": "https://en.wikipedia.org/wiki/Javascript"
+    },
+    {
+        "Name": "JavaScript Module",
+        "Mimetype": "text/javascript",
+        "Icon": "",
+        "Extension": ".mjs",
+        "Info": "https://nodejs.org/docs/latest/api/esm.html"
+    },
+    {
+        "Name": "Opus Audio",
+        "Mimetype": "audio/opus",
+        "Icon": "",
+        "Extension": ".opus",
+        "Info": "https://en.wikipedia.org/wiki/Opus_(audio_format)"
+    },
+    {
+        "Name": "MPEG Transport Stream",
+        "Mimetype": "video/mp2t",
+        "Icon": "",
+        "Extension": ".ts",
+        "Info": "https://en.wikipedia.org/wiki/MPEG_transport_stream"
+    }
+]
